@@ -1,38 +1,38 @@
 # working-memory
 
-### Bash
+#### Bash
 [bash command](https://ss64.com/bash/env.html)
 
+#### Containers
+[Docker Samples](https://docs.docker.com/samples/)  
 
-### Javascript
-[Mozilla Developer Network]()
-[hotkeys.js - capture keyboard input](https://wangchujiang.com/hotkeys/)
-```document.body.contentEditable = true```
+#### Data Structure Standards
+[Schema](https://schema.org/docs/faq.html#0)
 
+#### Date and Time   
+[Epoch Converter](https://www.epochconverter.com/)  
 
-### GitHub
+#### GitHub
 [Add local code to GitHub](https://docs.github.com/en/get-started/importing-your-projects-to-github/importing-source-code-to-github/adding-locally-hosted-code-to-github)    
 [GitHub Readme - Intentional Creation](https://github.com/readme/guides/intentional-creation)  
 
+#### HTTP Archive (HAR)
+[Http Archive](https://toolbox.googleapps.com/apps/har_analyzer/)  
 
+#### Javascript
+[Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
+[hotkeys.js - capture keyboard input](https://wangchujiang.com/hotkeys/)  
+```document.body.contentEditable = true```  
 
-### Markdown
+#### Markdown
 [Markdown Guide](https://www.markdownguide.org/)  
 
-### Powershell  
+#### Powershell  
 [Prevent lock out on windows machine](https://www.shellhacks.com/windows-prevent-lock-screen-timeout-when-idle/)  
 
 
-### Ruby
+#### Ruby
 [Effective Testing with RSpec 3](https://pragprog.com/titles/rspec3/effective-testing-with-rspec-3/)
 
 
-### HTTP Archive (HAR)
-[Http Archive](https://toolbox.googleapps.com/apps/har_analyzer/)
 
-
-### Data Structure Standards
-[Schema](https://schema.org/docs/faq.html#0)
-
-### Containers
-[Docker Samples](https://docs.docker.com/samples/)

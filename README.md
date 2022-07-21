@@ -28,6 +28,7 @@
 [Markdown Guide](https://www.markdownguide.org/)  
 
 #### Powershell  
+[Getting Started](https://adamtheautomator.com/powershell-functions/)  
 [Prevent lock out on windows machine](https://www.shellhacks.com/windows-prevent-lock-screen-timeout-when-idle/)  
 
 

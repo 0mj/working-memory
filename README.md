@@ -6,15 +6,22 @@
 #### Containers
 [Docker Samples](https://docs.docker.com/samples/)  
 
+#### Command Line Weather
+[wttr.in](https://github.com/chubin/wttr.in) the right way to check the weather  
+```curl wttr.in/44087```
+
 #### Data Structure Standards
 [Schema](https://schema.org/docs/faq.html#0)
 
 #### Date and Time   
 [Epoch Converter](https://www.epochconverter.com/)  
 
+##### Functional Programming
+
 #### GitHub
-[Add local code to GitHub](https://docs.github.com/en/get-started/importing-your-projects-to-github/importing-source-code-to-github/adding-locally-hosted-code-to-github)    
+[Add local code to GitHub](https://docs.github.com/en/get-started/importing-your-projects-to-github/importing-source-code-to-github/adding-locally-hosted-code-to-github)  
 [GitHub Readme - Intentional Creation](https://github.com/readme/guides/intentional-creation)  
+A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools, and more. [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)  
 
 #### HTML
 [Input & Select Box](https://codepen.io/mmj/pen/vYRejQw)
@@ -41,3 +48,10 @@
 
 
 
+#### Acting upon every thought
+[I need to find that comment / question in instagram to that one user.. ;) ](https://developers.facebook.com/docs/instagram-basic-display-api)
+
+
+# NEVER GO TO A STORE RELAX ON THE FLOOR
+If you're thinking about calling a service provider to make a change see if they have a chat.  Much easier than waiting on hold for hours. 
+[basic imei info](https://www.imei.info/?imei=356870119169296)

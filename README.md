@@ -18,6 +18,10 @@
 
 ##### Functional Programming
 
+# Git
+Overwrite changes to a file with a file from another branch:
+``` git checkout master -- README.md ```
+
 #### GitHub
 [Add local code to GitHub](https://docs.github.com/en/get-started/importing-your-projects-to-github/importing-source-code-to-github/adding-locally-hosted-code-to-github)  
 [GitHub Readme - Intentional Creation](https://github.com/readme/guides/intentional-creation)  
@@ -41,6 +45,9 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 #### Powershell  
 [Getting Started](https://adamtheautomator.com/powershell-functions/)  
 [Prevent lock out on windows machine](https://www.shellhacks.com/windows-prevent-lock-screen-timeout-when-idle/)  
+[you married your cousin](https://www.youtube.com/watch?v=BxAz36rTOsc)  
+
+
 
 
 #### Ruby
@@ -48,10 +55,5 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 
 
 
-#### Acting upon every thought
-[I need to find that comment / question in instagram to that one user.. ;) ](https://developers.facebook.com/docs/instagram-basic-display-api)
-
-
-# NEVER GO TO A STORE RELAX ON THE FLOOR
-If you're thinking about calling a service provider to make a change see if they have a chat.  Much easier than waiting on hold for hours. 
-[basic imei info](https://www.imei.info/?imei=356870119169296)
+# WINDOWS
+[Control Panel\Hardware and Sound\Power Options\System Settings](https://superuser.com/questions/1424774/windows-10-how-to-lock-not-sleep-laptop-on-lid-close)

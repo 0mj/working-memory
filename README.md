@@ -1,7 +1,17 @@
 # working-memory
 
+
+
 #### Bash
 [bash command](https://ss64.com/bash/env.html)
+
+## Books
+[Google Books API](https://developers.google.com/books)
+[Digital Minimalism]
+	operating procedure  
+	(Use apps and digital toos of value)  
+	once a month download ____ and upload pics and vids worth saving and delete the rest
+
 
 #### Containers
 [Docker Samples](https://docs.docker.com/samples/)  
@@ -19,8 +29,11 @@
 ##### Functional Programming
 
 # Git
-Overwrite changes to a file with a file from another branch:
-``` git checkout master -- README.md ```
+Overwrite changes to a file with a file from another branch:  
+```git checkout master -- README.md ```  
+  
+Checkout the last brach you were on:  
+```git checkout -```  
 
 #### GitHub
 [Add local code to GitHub](https://docs.github.com/en/get-started/importing-your-projects-to-github/importing-source-code-to-github/adding-locally-hosted-code-to-github)  
@@ -50,8 +63,13 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 
 
 
-#### Ruby
+## Ruby
 [Effective Testing with RSpec 3](https://pragprog.com/titles/rspec3/effective-testing-with-rspec-3/)
+
+### Ruby (My Notes)
+Recall to remember    
+"C:\Users\mattjamison\OneDrive - BRAVO WELLNESS\OVATION\System"  
+
 
 
 

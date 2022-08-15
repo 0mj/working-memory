@@ -23,12 +23,14 @@
 
 
 # Data Structure
-[Schema](https://schema.org/docs/faq.html#0)
+[Schema](https://schema.org/docs/faq.html#0)  
+Import csv data into google [calendar](https://gist.github.com/0mj/315312869506e6909ab181a288b8d2c5)  
 
 #### Date and Time   
 [Epoch Converter](https://www.epochconverter.com/)  
 
 # Functional Programming
+Read up on functional programming on the github readme project.  
 
 # Git
 Overwrite changes to a file with a file from another branch:  
@@ -40,7 +42,7 @@ Checkout the last brach you were on:
 # GitHub
 [Add local code to GitHub](https://docs.github.com/en/get-started/importing-your-projects-to-github/importing-source-code-to-github/adding-locally-hosted-code-to-github)  
 [GitHub Readme - Intentional Creation](https://github.com/readme/guides/intentional-creation)  
-A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools, and more. [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)  
+A collection lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools n more. [Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)  
 [curl a gist](https://docs.github.com/en/rest/gists/gists#create-a-gist)  
 
   

@@ -13,13 +13,14 @@
 	(Use apps and digital toos of value)  
 	once a month download ____ and upload pics and vids worth saving and delete the rest
 
+# Command
+[wttr.in](https://github.com/chubin/wttr.in) the right way to check the weather  
+```curl wttr.in/44087```
 
 #### Containers
 [Docker Samples](https://docs.docker.com/samples/)  
 
-#### Command Line Weather
-[wttr.in](https://github.com/chubin/wttr.in) the right way to check the weather  
-```curl wttr.in/44087```
+
 
 # Data Structure
 [Schema](https://schema.org/docs/faq.html#0)
@@ -36,10 +37,11 @@ Overwrite changes to a file with a file from another branch:
 Checkout the last brach you were on:  
 ```git checkout -```  
 
-#### GitHub
+# GitHub
 [Add local code to GitHub](https://docs.github.com/en/get-started/importing-your-projects-to-github/importing-source-code-to-github/adding-locally-hosted-code-to-github)  
 [GitHub Readme - Intentional Creation](https://github.com/readme/guides/intentional-creation)  
-A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools, and more. [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) 
+A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools, and more. [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)  
+[curl a gist](https://docs.github.com/en/rest/gists/gists#create-a-gist)  
 
   
 
@@ -61,8 +63,9 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 # Powershell  
 [Getting Started](https://adamtheautomator.com/powershell-functions/)  
 [Prevent lock out on windows machine](https://www.shellhacks.com/windows-prevent-lock-screen-timeout-when-idle/)  
-[you married your cousin](https://www.youtube.com/watch?v=BxAz36rTOsc)  
+"C:\Users\mattjamison\OneDrive - BRAVO WELLNESS\1on1"  
 
+[New-Guid](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/new-guid)  
 
 
 

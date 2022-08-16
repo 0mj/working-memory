@@ -33,11 +33,8 @@ Import csv data into google [calendar](https://gist.github.com/0mj/315312869506e
 Read up on functional programming on the github readme project.  
 
 # Git
-Overwrite changes to a file with a file from another branch:  
-```git checkout master -- README.md ```  
-  
-Checkout the last brach you were on:  
-```git checkout -```  
+Overwrite changes to a file with a file from another branch:  ```git checkout master -- README.md ```  
+Checkout the last brach you were on:  ```git checkout -```  
 
 # GitHub
 [Add local code to GitHub](https://docs.github.com/en/get-started/importing-your-projects-to-github/importing-source-code-to-github/adding-locally-hosted-code-to-github)  

@@ -35,6 +35,7 @@ Read up on functional programming on the github readme project.
 # Git
 Overwrite changes to a file with a file from another branch:  ```git checkout master -- README.md ```  
 Checkout the last brach you were on:  ```git checkout -```  
+Reference logs, or "reflogs" ```git reflog```  
 
 # GitHub
 [Add local code to GitHub](https://docs.github.com/en/get-started/importing-your-projects-to-github/importing-source-code-to-github/adding-locally-hosted-code-to-github)  
@@ -75,6 +76,15 @@ A collection lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tool
 Recall to remember    
 "C:\Users\mattjamison\OneDrive - BRAVO WELLNESS\OVATION\System"  
 
+# Ubuntu
+¯\_(ツ)_/¯ 
+Update dependencies..
+```$  sudo apt -y update```  
+```$ sudo apt install postgresql-client-common/focal-pgdg```  
+```$ sudo apt install postgresql-common/focal-pgdg```  
+```$ sudo apt-get install --reinstall libpq-dev```  
+```$ sudo apt-get install --reinstall imagemagick```  
+```$ sudo apt-get install --reinstall libmagickwand  ```  
 
 
 

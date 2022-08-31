@@ -12,6 +12,12 @@
 	operating procedure  
 	(Use apps and digital toos of value)  
 	once a month download ____ and upload pics and vids worth saving and delete the rest
+[Indistractable: How to Master the Skill of the Century]()
+
+# Brain
+plan plan plan  
+if you don't plan someone will plan for you  
+
 
 # Command
 [wttr.in](https://github.com/chubin/wttr.in) the right way to check the weather  
@@ -36,6 +42,7 @@ Read up on functional programming on the github readme project.
 Overwrite changes to a file with a file from another branch:  ```git checkout master -- README.md ```  
 Checkout the last brach you were on:  ```git checkout -```  
 Reference logs, or "reflogs" ```git reflog```  
+Set user email for directory ```git config user.email "address@coolmail.com"```
 
 # GitHub
 [Add local code to GitHub](https://docs.github.com/en/get-started/importing-your-projects-to-github/importing-source-code-to-github/adding-locally-hosted-code-to-github)  
@@ -70,7 +77,10 @@ A collection lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tool
 
 
 # Ruby
-[Effective Testing with RSpec 3](https://pragprog.com/titles/rspec3/effective-testing-with-rspec-3/)
+[Effective Testing with RSpec 3](https://pragprog.com/titles/rspec3/effective-testing-with-rspec-3/)  
+Conditional Assignment Operator ```||=```  
+Example: ``` a ||= b ```  
+If a is undefined or falsey, evaluate b and set a to the result  
 
 ## Ruby (My Notes)
 Recall to remember    

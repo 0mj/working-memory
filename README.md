@@ -47,6 +47,7 @@ Connected? Verify you're connected ```ssh -T git@github.com```
 Set user email for directory ```git config user.email "address@coolmail.com"```  
 fatal: The current branch main has no upstream branch.  To push the current branch and set the remote as upstream, use ```git push --set-upstream main main``` solved with ```git push --set-uprstream github.com:0mj/rspec3_book.git main```  
 #### Git fatal errors
+
 <pre>
 fatal: No configured push destination.  
 Either specify the URL from the command-line or configure a remote repository using  
@@ -56,6 +57,7 @@ Either specify the URL from the command-line or configure a remote repository us
 and then push using the remote name  
 
 ```git push <name>```  
+Solved with ```git remote add main git@github.com:0mj/rspec3_book.git```  
 </pre>
 
 # GitHub

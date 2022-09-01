@@ -42,7 +42,21 @@ Read up on functional programming on the github readme project.
 Overwrite changes to a file with a file from another branch:  ```git checkout master -- README.md ```  
 Checkout the last brach you were on:  ```git checkout -```  
 Reference logs, or "reflogs" ```git reflog```  
-Set user email for directory ```git config user.email "address@coolmail.com"```
+
+Connected? Verify you're connected ```ssh -T git@github.com```  
+Set user email for directory ```git config user.email "address@coolmail.com"```  
+fatal: The current branch main has no upstream branch.  To push the current branch and set the remote as upstream, use ```git push --set-upstream main main``` solved with ```git push --set-uprstream github.com:0mj/rspec3_book.git main```  
+#### Git fatal errors
+<pre>
+fatal: No configured push destination.  
+Either specify the URL from the command-line or configure a remote repository using  
+  
+```git remote add <name> <url>```  
+  
+and then push using the remote name  
+
+```git push <name>```  
+</pre>
 
 # GitHub
 [Add local code to GitHub](https://docs.github.com/en/get-started/importing-your-projects-to-github/importing-source-code-to-github/adding-locally-hosted-code-to-github)  

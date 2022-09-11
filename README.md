@@ -84,6 +84,7 @@ A collection lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tool
 [Markdown Guide](https://www.markdownguide.org/)  
 
 # Powershell  
+[Powershell Documentation](https://docs.microsoft.com/en-us/powershell/)  
 [Getting Started](https://adamtheautomator.com/powershell-functions/)  
 [Prevent lock out on windows machine](https://www.shellhacks.com/windows-prevent-lock-screen-timeout-when-idle/)  
 "C:\Users\mattjamison\OneDrive - BRAVO WELLNESS\1on1"  
@@ -93,18 +94,27 @@ A collection lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tool
 
 
 # Ruby
+[Ruby documentation](https://www.ruby-lang.org/en/documentation/)  
 [Effective Testing with RSpec 3](https://pragprog.com/titles/rspec3/effective-testing-with-rspec-3/)  
 Conditional Assignment Operator ```||=```  
 Example: ``` a ||= b ```  
 If a is undefined or falsey, evaluate b and set a to the result  
 
+Error - "wrong number of arguments (given 3, expected 1..2)"  thrown when calling ```super``` in a child class method that was overwriting it's parent method
+
 ## Ruby (My Notes)
 Recall to remember    
 "C:\Users\mattjamison\OneDrive - BRAVO WELLNESS\OVATION\System"  
 
+## Ruby Super
+Error - "super: no superclass method ```create_password_instructions```for #<DeviseMailer:0x0000000004d8c8>"  
+
+## Ruby Testing - RSpec
+Run tests in specific directory ```bundle exec rspec spec/directory```  
+
 # Ubuntu
-¯\_(ツ)_/¯ 
-Update dependencies..
+¯\_(ツ)_/¯  
+Update dependencies..  
 ```$  sudo apt -y update```  
 ```$ sudo apt install postgresql-client-common/focal-pgdg```  
 ```$ sudo apt install postgresql-common/focal-pgdg```  
@@ -115,4 +125,4 @@ Update dependencies..
 
 
 # WINDOWS
-[Control Panel\Hardware and Sound\Power Options\System Settings](https://superuser.com/questions/1424774/windows-10-how-to-lock-not-sleep-laptop-on-lid-close)
+[Control Panel\Hardware and Sound\Power Options\System Settings](https://superuser.com/questions/1424774/windows-10-how-to-lock-not-sleep-laptop-on-lid-close)  

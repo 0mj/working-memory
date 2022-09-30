@@ -88,13 +88,20 @@ A collection lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tool
 [Getting Started](https://adamtheautomator.com/powershell-functions/)  
 [Prevent lock out on windows machine](https://www.shellhacks.com/windows-prevent-lock-screen-timeout-when-idle/)  
 "C:\Users\mattjamison\OneDrive - BRAVO WELLNESS\1on1"  
-
 [New-Guid](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/new-guid)  
+What version is this?  ```$PSVersionTable.PSVersion```  
+Call one script from another. Assumming the same directory..  
+```
+$PSScriptRoot
+& "$PSScriptRoot\alwayson.ps1"
+```
 
 
 
 # Ruby
 [Ruby documentation](https://www.ruby-lang.org/en/documentation/)  
+[Ruby documentation - 2.6.6 Standard Library Documentation]()  
+[Ruby Programming books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md#ruby)  
 [Effective Testing with RSpec 3](https://pragprog.com/titles/rspec3/effective-testing-with-rspec-3/)  
 Conditional Assignment Operator ```||=```  
 Example: ``` a ||= b ```  

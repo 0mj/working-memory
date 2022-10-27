@@ -1,5 +1,7 @@
 # WORKING MEMORY
-> Your working memory is fading fast.  Store only things of value!
+> LIKE SHARE AND SUBSCRIBE
+
+
 
 
 
@@ -13,7 +15,7 @@
 	(Use apps and digital toos of value)  
 	once a month download ____ and upload pics and vids worth saving and delete the rest
 [Indistractable: How to Master the Skill of the Century]()
-
+[xkcd](https://xkcd.com/books/)  
 # Brain
 plan plan plan  
 if you don't plan someone will plan for you  
@@ -35,6 +37,9 @@ Import csv data into google [calendar](https://gist.github.com/0mj/315312869506e
 #### Date and Time   
 [Epoch Converter](https://www.epochconverter.com/)  
 
+# Facial Recognition
+[PimEyes: Face Recognition Search Engine and Reverse Image Search](https://pimeyes.com/en)  
+
 # Functional Programming
 Read up on functional programming on the github readme project.  
 
@@ -48,17 +53,17 @@ Set user email for directory ```git config user.email "address@coolmail.com"```
 fatal: The current branch main has no upstream branch.  To push the current branch and set the remote as upstream, use ```git push --set-upstream main main``` solved with ```git push --set-uprstream github.com:0mj/rspec3_book.git main```  
 #### Git fatal errors
 
-<pre>
-fatal: No configured push destination.  
-Either specify the URL from the command-line or configure a remote repository using  
+
+fatal: No configured push destination.    
+Either specify the URL from the command-line or configure a remote repository using    
   
 ```git remote add <name> <url>```  
   
-and then push using the remote name  
+and then push using the remote name    
 
-```git push <name>```  
+```git push <name>```    
 Solved with ```git remote add main git@github.com:0mj/rspec3_book.git```  
-</pre>
+
 
 # GitHub
 [Add local code to GitHub](https://docs.github.com/en/get-started/importing-your-projects-to-github/importing-source-code-to-github/adding-locally-hosted-code-to-github)  
@@ -82,6 +87,10 @@ A collection lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tool
 
 # Markdown
 [Markdown Guide](https://www.markdownguide.org/)  
+
+# PHP
+
+
 
 # Powershell  
 [Powershell Documentation](https://docs.microsoft.com/en-us/powershell/)  
@@ -130,6 +139,12 @@ Update dependencies..
 ```$ sudo apt-get install --reinstall libmagickwand  ```  
 
 
+# Vishing
+[malicious.life podcast on Vishing](https://podcasts.google.com/feed/aHR0cHM6Ly9tYWxpY2lvdXMubGlmZS9mZWVkL3BvZGNhc3Qv/episode/aHR0cHM6Ly9tYWxpY2lvdXMubGlmZS8_cD0xODE0)  
 
 # WINDOWS
 [Control Panel\Hardware and Sound\Power Options\System Settings](https://superuser.com/questions/1424774/windows-10-how-to-lock-not-sleep-laptop-on-lid-close)  
+Run a powershell script from Windows Run command  
+```powershell -file "C:\Users\mattjamison\OneDrive - BRAVO WELLNESS\1on1\alwayson.ps1"```  
+[a-z index of windows cmd](https://ss64.com/nt/)  
+Zone files? `dir /r`  

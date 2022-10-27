@@ -23,7 +23,7 @@ if you don't plan someone will plan for you
 
 # Command
 [wttr.in](https://github.com/chubin/wttr.in) the right way to check the weather  
-```curl wttr.in/44087```
+`curl wttr.in/44087`
 
 #### Containers
 [Docker Samples](https://docs.docker.com/samples/)  
@@ -44,25 +44,25 @@ Import csv data into google [calendar](https://gist.github.com/0mj/315312869506e
 Read up on functional programming on the github readme project.  
 
 # Git
-Overwrite changes to a file with a file from another branch:  ```git checkout master -- README.md ```  
-Checkout the last brach you were on:  ```git checkout -```  
-Reference logs, or "reflogs" ```git reflog```  
+Overwrite changes to a file with a file from another branch:  `git checkout master -- README.md `  
+Checkout the last brach you were on:  `git checkout -`  
+Reference logs, or "reflogs" `git reflog`  
 
-Connected? Verify you're connected ```ssh -T git@github.com```  
-Set user email for directory ```git config user.email "address@coolmail.com"```  
-fatal: The current branch main has no upstream branch.  To push the current branch and set the remote as upstream, use ```git push --set-upstream main main``` solved with ```git push --set-uprstream github.com:0mj/rspec3_book.git main```  
+Connected? Verify you're connected `ssh -T git@github.com`  
+Set user email for directory `git config user.email "address@coolmail.com"`  
+fatal: The current branch main has no upstream branch.  To push the current branch and set the remote as upstream, use `git push --set-upstream main main` solved with `git push --set-uprstream github.com:0mj/rspec3_book.git main`  
 #### Git fatal errors
 
 
 fatal: No configured push destination.    
 Either specify the URL from the command-line or configure a remote repository using    
   
-```git remote add <name> <url>```  
+`git remote add <name> <url>`  
   
 and then push using the remote name    
 
-```git push <name>```    
-Solved with ```git remote add main git@github.com:0mj/rspec3_book.git```  
+`git push <name>`    
+Solved with `git remote add main git@github.com:0mj/rspec3_book.git`  
 
 
 # GitHub
@@ -83,7 +83,7 @@ A collection lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tool
 # Javascript
 [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
 [hotkeys.js - capture keyboard input](https://wangchujiang.com/hotkeys/)  
-```document.body.contentEditable = true```  
+`document.body.contentEditable = true`  
 
 # Markdown
 [Markdown Guide](https://www.markdownguide.org/)  
@@ -98,9 +98,9 @@ A collection lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tool
 [Prevent lock out on windows machine](https://www.shellhacks.com/windows-prevent-lock-screen-timeout-when-idle/)  
 "C:\Users\mattjamison\OneDrive - BRAVO WELLNESS\1on1"  
 [New-Guid](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/new-guid)  
-What version is this?  ```$PSVersionTable.PSVersion```  
+What version is this?  `$PSVersionTable.PSVersion`  
 Call one script from another. Assumming the same directory..  
-```
+```powershell
 $PSScriptRoot
 & "$PSScriptRoot\alwayson.ps1"
 ```
@@ -112,31 +112,31 @@ $PSScriptRoot
 [Ruby documentation - 2.6.6 Standard Library Documentation]()  
 [Ruby Programming books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md#ruby)  
 [Effective Testing with RSpec 3](https://pragprog.com/titles/rspec3/effective-testing-with-rspec-3/)  
-Conditional Assignment Operator ```||=```  
-Example: ``` a ||= b ```  
+Conditional Assignment Operator `||=`  
+Example: ` a ||= b `  
 If a is undefined or falsey, evaluate b and set a to the result  
 
-Error - "wrong number of arguments (given 3, expected 1..2)"  thrown when calling ```super``` in a child class method that was overwriting it's parent method
+Error - "wrong number of arguments (given 3, expected 1..2)"  thrown when calling `super` in a child class method that was overwriting it's parent method
 
 ## Ruby (My Notes)
 Recall to remember    
 "C:\Users\mattjamison\OneDrive - BRAVO WELLNESS\OVATION\System"  
 
 ## Ruby Super
-Error - "super: no superclass method ```create_password_instructions```for #<DeviseMailer:0x0000000004d8c8>"  
+Error - "super: no superclass method `create_password_instructions`for #<DeviseMailer:0x0000000004d8c8>"  
 
 ## Ruby Testing - RSpec
-Run tests in specific directory ```bundle exec rspec spec/directory```  
+Run tests in specific directory `bundle exec rspec spec/directory`  
 
 # Ubuntu
 ¯\_(ツ)_/¯  
 Update dependencies..  
-```$  sudo apt -y update```  
-```$ sudo apt install postgresql-client-common/focal-pgdg```  
-```$ sudo apt install postgresql-common/focal-pgdg```  
-```$ sudo apt-get install --reinstall libpq-dev```  
-```$ sudo apt-get install --reinstall imagemagick```  
-```$ sudo apt-get install --reinstall libmagickwand  ```  
+`$  sudo apt -y update`  
+`$ sudo apt install postgresql-client-common/focal-pgdg`  
+`$ sudo apt install postgresql-common/focal-pgdg`  
+`$ sudo apt-get install --reinstall libpq-dev`  
+`$ sudo apt-get install --reinstall imagemagick`  
+`$ sudo apt-get install --reinstall libmagickwand  `  
 
 
 # Vishing
@@ -145,6 +145,6 @@ Update dependencies..
 # WINDOWS
 [Control Panel\Hardware and Sound\Power Options\System Settings](https://superuser.com/questions/1424774/windows-10-how-to-lock-not-sleep-laptop-on-lid-close)  
 Run a powershell script from Windows Run command  
-```powershell -file "C:\Users\mattjamison\OneDrive - BRAVO WELLNESS\1on1\alwayson.ps1"```  
+`powershell -file "C:\Users\mattjamison\OneDrive - BRAVO WELLNESS\1on1\alwayson.ps1"`  
 [a-z index of windows cmd](https://ss64.com/nt/)  
 Zone files? `dir /r`  

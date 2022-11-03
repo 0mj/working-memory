@@ -22,7 +22,7 @@ if you don't plan someone will plan for you
 
 
 # Command
-[wttr.in](https://github.com/chubin/wttr.in) the right way to check the weather  
+[Command Line Weather.. wttr.in](https://github.com/chubin/wttr.in) the right way to check the weather  
 `curl wttr.in/44087`
 
 #### Containers
@@ -105,6 +105,9 @@ $PSScriptRoot
 & "$PSScriptRoot\alwayson.ps1"
 ```
 
+
+# Python
+[Web scraping](https://www.youtube.com/watch?v=Bg9r_yLk7VY)   
 
 
 # Ruby

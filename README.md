@@ -43,7 +43,7 @@ Import csv data into google [calendar](https://gist.github.com/0mj/315312869506e
 [PimEyes: Face Recognition Search Engine and Reverse Image Search](https://pimeyes.com/en)  
 
 # Failure Resume
-[My Failure Resume]()  
+[My Failure Resume](https://github.com/0mj/working-memory/blob/main/FAILURE-RESUME.md)  
 
 # Functional Programming
 Read up on functional programming on the github readme project.  

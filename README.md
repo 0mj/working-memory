@@ -9,16 +9,18 @@
 [bash command](https://ss64.com/bash/env.html)
 
 # Books
-[Google Books API](https://developers.google.com/books)
-[Digital Minimalism]
+[Clean Code: A Handbook of Agile Software Craftsmanship](https://www.oreilly.com/library/view/clean-code-a/9780136083238/)  
+[Google Books API](https://developers.google.com/books)  
+[Digital Minimalism - Choosing a Focused Life in a Noisy World](https://www.calnewport.com/books/digital-minimalism/)  
 	operating procedure  
-	(Use apps and digital toos of value)  
-	once a month download ____ and upload pics and vids worth saving and delete the rest
-[Indistractable: How to Master the Skill of the Century]()
+	(Use apps and digital tools of value)  
+	once a month download ____ and upload pics and vids worth saving and delete the rest  
+[Indistractable: How to Master the Skill of the Century](#)  
 [xkcd](https://xkcd.com/books/)  
+
 # Brain
-plan plan plan  
-if you don't plan someone will plan for you  
+Plan or be planned.   
+Life is 10% of what happens to you, and 90% of how you react to it
 
 
 # Command
@@ -39,6 +41,9 @@ Import csv data into google [calendar](https://gist.github.com/0mj/315312869506e
 
 # Facial Recognition
 [PimEyes: Face Recognition Search Engine and Reverse Image Search](https://pimeyes.com/en)  
+
+# Failure Resume
+[My Failure Resume]()  
 
 # Functional Programming
 Read up on functional programming on the github readme project.  

@@ -9,6 +9,7 @@
 [bash command](https://ss64.com/bash/env.html)
 
 ## Books
+[A Mind for Numbers](https://barbaraoakley.com/books/a-mind-for-numbers/)  
 [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.oreilly.com/library/view/clean-code-a/9780136083238/)  
 [Google Books API](https://developers.google.com/books)  
 [Digital Minimalism - Choosing a Focused Life in a Noisy World](https://www.calnewport.com/books/digital-minimalism/)  
@@ -16,6 +17,8 @@
 	(Use apps and digital tools of value)  
 	once a month download ____ and upload pics and vids worth saving and delete the rest  
 [Indistractable: How to Master the Skill of the Century](#)  
+[Program or Be Programed](https://rushkoff.com/books/program-or-be-programmed/)  
+[Smarter Than You Think]()
 [xkcd](https://xkcd.com/books/)  
 
 ## Brain
@@ -30,7 +33,9 @@ Life is 10% of what happens to you, and 90% of how you react to it
 ##### Containers
 [Docker Samples](https://docs.docker.com/samples/)  
 
-
+##### Data Brokers
+Piqu  
+My life  
 
 ## Data Structure
 [Schema](https://schema.org/docs/faq.html#0)  
@@ -76,7 +81,7 @@ Solved with `git remote add main git@github.com:0mj/rspec3_book.git`
 A collection lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools n more. [Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)  
 [curl a gist](https://docs.github.com/en/rest/gists/gists#create-a-gist)  
 
-  
+##### Google Dork
 
 ## HTML
 [Input & Select Box](https://codepen.io/mmj/pen/vYRejQw)

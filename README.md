@@ -30,10 +30,10 @@ Life is 10% of what happens to you, and 90% of how you react to it
 [Command Line Weather.. wttr.in](https://github.com/chubin/wttr.in) the right way to check the weather  
 `curl wttr.in/44087`
 
-##### Containers
+### Containers
 [Docker Samples](https://docs.docker.com/samples/)  
 
-##### Data Brokers
+### Data Brokers
 Piqu  
 My life  
 
@@ -41,7 +41,7 @@ My life
 [Schema](https://schema.org/docs/faq.html#0)  
 Import csv data into google [calendar](https://gist.github.com/0mj/315312869506e6909ab181a288b8d2c5)  
 
-##### Date and Time   
+### Date and Time   
 [Epoch Converter](https://www.epochconverter.com/)  
 
 ## Facial Recognition

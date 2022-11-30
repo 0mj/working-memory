@@ -97,7 +97,7 @@ A collection lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tool
 
 ## Markdown
 [Markdown Guide](https://www.markdownguide.org/)  
-
+[Markdown - Github](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)  
 ## PHP
 [php.net](https://php.net)  
 

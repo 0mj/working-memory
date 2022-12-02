@@ -44,6 +44,9 @@ Import csv data into google [calendar](https://gist.github.com/0mj/315312869506e
 ### Date and Time   
 [Epoch Converter](https://www.epochconverter.com/)  
 
+### Documentation
+[Dev Docs](https://devdocs.io/)  
+
 ## Facial Recognition
 [PimEyes: Face Recognition Search Engine and Reverse Image Search](https://pimeyes.com/en)  
 

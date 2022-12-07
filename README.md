@@ -47,6 +47,14 @@ Import csv data into google [calendar](https://gist.github.com/0mj/315312869506e
 ### Documentation
 [Dev Docs](https://devdocs.io/)  
 
+### Developer Tools
+#### Dev Tools in Chrome Full Page screen shot
+Take a full page screen shot:  
+Open DevTools **(f12)** by going to View ➙ Developer ➙ Developer Tools (Option + ⌘ + I)  
+Go to ellipses menu ➙ Run command **(Shift + ⌘ + P)**  
+Type “screenshot”  
+Select the type of screenshot your want to take: area, full size, node, or regular.  
+
 ## Facial Recognition
 [PimEyes: Face Recognition Search Engine and Reverse Image Search](https://pimeyes.com/en)  
 

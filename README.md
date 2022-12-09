@@ -169,7 +169,7 @@ Error - "wrong number of arguments (given 3, expected 1..2)"  thrown when callin
 
 ### Ruby (My Notes)
 Recall to remember    
-"C:\Users\mattjamison\OneDrive - BRAVO WELLNESS\OVATION\System"  
+"C:\Users\mattjamison\path\System"  
 
 ### Ruby Super
 Error - "super: no superclass method `create_password_instructions`for #<DeviseMailer:0x0000000004d8c8>"  

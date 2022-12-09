@@ -133,6 +133,7 @@ A collection lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tool
 
 ## Media
 [Darknet Diaries](https://darknetdiaries.com/)  
+[Security Now](https://www.grc.com/securitynow.htm)  
 ## PHP
 [php.net](https://php.net)  
 

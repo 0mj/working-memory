@@ -39,7 +39,7 @@
 	once a month download ____ and upload pics and vids worth saving and delete the rest  
 [Indistractable: How to Master the Skill of the Century](#)  
 [Program or Be Programed](https://rushkoff.com/books/program-or-be-programmed/)  
-[Smarter Than You Think]()
+[Smarter Than You Think]()  
 [xkcd](https://xkcd.com/books/)  
 
 ## Brain
@@ -130,6 +130,9 @@ A collection lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tool
 ## Markdown
 [Markdown Guide](https://www.markdownguide.org/)  
 [Markdown - Github](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)  
+
+## Media
+[Darknet Diaries](https://darknetdiaries.com/)  
 ## PHP
 [php.net](https://php.net)  
 
@@ -139,7 +142,7 @@ A collection lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tool
 [Powershell Documentation](https://docs.microsoft.com/en-us/powershell/)  
 [Getting Started](https://adamtheautomator.com/powershell-functions/)  
 [Prevent lock out on windows machine](https://www.shellhacks.com/windows-prevent-lock-screen-timeout-when-idle/)  
-"C:\Users\mattjamison\OneDrive - BRAVO WELLNESS\1on1"  
+"C:\Users\mattjamison\path\1on1"  
 [New-Guid](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/new-guid)  
 What version is this?  `$PSVersionTable.PSVersion`  
 Call one script from another. Assumming the same directory..  
@@ -191,6 +194,6 @@ Update dependencies..
 ## WINDOWS
 [Control Panel\Hardware and Sound\Power Options\System Settings](https://superuser.com/questions/1424774/windows-10-how-to-lock-not-sleep-laptop-on-lid-close)  
 Run a powershell script from Windows Run command  
-`powershell -file "C:\Users\mattjamison\OneDrive - BRAVO WELLNESS\1on1\alwayson.ps1"`  
+`powershell -file "C:\Users\mattjamison\path\alwayson.ps1"`  
 [a-z index of windows cmd](https://ss64.com/nt/)  
 Zone files? `dir /r`  

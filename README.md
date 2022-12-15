@@ -32,19 +32,6 @@
 ## Bash
 [bash command](https://ss64.com/bash/env.html)
 
-## Books
-[A Mind for Numbers](https://barbaraoakley.com/books/a-mind-for-numbers/)  
-[Clean Code: A Handbook of Agile Software Craftsmanship](https://www.oreilly.com/library/view/clean-code-a/9780136083238/)  
-[Google Books API](https://developers.google.com/books)  
-[Digital Minimalism - Choosing a Focused Life in a Noisy World](https://www.calnewport.com/books/digital-minimalism/)  
-	operating procedure  
-	(Use apps and digital tools of value)  
-	once a month download ____ and upload pics and vids worth saving and delete the rest  
-[Indistractable: How to Master the Skill of the Century](#)  
-[Program or Be Programed](https://rushkoff.com/books/program-or-be-programmed/)  
-[Smarter Than You Think]()  
-[xkcd](https://xkcd.com/books/)  
-
 ## Brain
 Plan or be planned.   
 Life is 10% of what happens to you, and 90% of how you react to it
@@ -135,8 +122,22 @@ A collection lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tool
 [Markdown - Github](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)  
 
 ## Media
+#### Podcasts
 [Darknet Diaries](https://darknetdiaries.com/)  
 [Security Now](https://www.grc.com/securitynow.htm)  
+#### Books
+[A Mind for Numbers](https://barbaraoakley.com/books/a-mind-for-numbers/)  
+[Clean Code: A Handbook of Agile Software Craftsmanship](https://www.oreilly.com/library/view/clean-code-a/9780136083238/)  
+[Google Books API](https://developers.google.com/books)  
+[Digital Minimalism - Choosing a Focused Life in a Noisy World](https://www.calnewport.com/books/digital-minimalism/)  
+	operating procedure  
+	(Use apps and digital tools of value)  
+	once a month download ____ and upload pics and vids worth saving and delete the rest  
+[Indistractable: How to Master the Skill of the Century](#)  
+[Program or Be Programed](https://rushkoff.com/books/program-or-be-programmed/)  
+[Smarter Than You Think](https://www.penguinrandomhouse.com/books/308723/smarter-than-you-think-by-clive-thompson/)  
+[xkcd](https://xkcd.com/books/)  
+
 ## PHP
 [php.net](https://php.net)  
 

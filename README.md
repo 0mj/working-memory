@@ -23,6 +23,9 @@
                                          ~~                                                \|___|                   \|___|                   \/____/                  \/____/                                                   \/____/                  \/____/                  \/____/                                           \|___|                               
                                                                                                                                                                                                                                                                                                                                                                          
 </pre>
+## AI
+[ChatGPT](https://chat.openai.com/chat):astonished:  
+
 ## ASCII
 [ASCII Art Generator](https://patorjk.com/software/taag/#p=display&f=Alpha&t=%20%20%20%20WORKING%20MEMORY)  
 

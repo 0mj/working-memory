@@ -196,6 +196,9 @@ Update dependencies..
 ## Vishing
 [malicious.life podcast on Vishing](https://podcasts.google.com/feed/aHR0cHM6Ly9tYWxpY2lvdXMubGlmZS9mZWVkL3BvZGNhc3Qv/episode/aHR0cHM6Ly9tYWxpY2lvdXMubGlmZS8_cD0xODE0)  
 
+## Web
+[WAF Web Application Firewall](https://www.grc.com/sn/sn-902-notes.pdf)  
+
 ## WINDOWS
 [Control Panel\Hardware and Sound\Power Options\System Settings](https://superuser.com/questions/1424774/windows-10-how-to-lock-not-sleep-laptop-on-lid-close)  
 Run a powershell script from Windows Run command  

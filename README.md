@@ -1,5 +1,9 @@
 ## AI
 [ChatGPT](https://chat.openai.com/chat):astonished:  
+Run Powershell script from command prompt(assuming script directory has been added to PATH)  
+```
+powershell -ExecutionPolicy Bypass -Command "& 'alwayson.ps1'"
+```
 
 ## ASCII
 [ASCII Art Generator](https://patorjk.com/software/taag/#p=display&f=Alpha&t=%20%20%20%20WORKING%20MEMORY)  

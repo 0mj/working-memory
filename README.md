@@ -102,8 +102,12 @@ A collection lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tool
 
 ## Media
 #### Podcasts
-[Darknet Diaries](https://darknetdiaries.com/)  
+[Darknet Diaries](https://darknetdiaries.com/) 
+[Defense in Depth]()  
+[Malicious Life]()  
 [Security Now](https://www.grc.com/securitynow.htm)  
+[Smashing Security]()  
+
 #### Books
 [A Mind for Numbers](https://barbaraoakley.com/books/a-mind-for-numbers/)  
 [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.oreilly.com/library/view/clean-code-a/9780136083238/)  
@@ -115,6 +119,7 @@ A collection lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tool
 [Indistractable: How to Master the Skill of the Century](#)  
 [Program or Be Programed](https://rushkoff.com/books/program-or-be-programmed/)  
 [Smarter Than You Think](https://www.penguinrandomhouse.com/books/308723/smarter-than-you-think-by-clive-thompson/)  
+[Shikake : the Japanese art of shaping behavior through design Matsumura, Naohiro](https://curiousmindsagency.com/shikake)  
 [xkcd](https://xkcd.com/books/)  
 
 ## PHP

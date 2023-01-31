@@ -109,13 +109,15 @@ A collection lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tool
 [Smashing Security]()  
 
 #### Books
+[Atomic Habits](https://jamesclear.com/atomic-habits)  
 [A Mind for Numbers](https://barbaraoakley.com/books/a-mind-for-numbers/)  
 [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.oreilly.com/library/view/clean-code-a/9780136083238/)  
 [Google Books API](https://developers.google.com/books)  
 [Digital Minimalism - Choosing a Focused Life in a Noisy World](https://www.calnewport.com/books/digital-minimalism/)  
-	operating procedure  
-	(Use apps and digital tools of value)  
-	once a month download ____ and upload pics and vids worth saving and delete the rest  
+operating procedure  
+(Use apps and digital tools of value)  
+once a month download and upload pics and vids worth saving and delete the rest  
+solitude deprevation
 [Indistractable: How to Master the Skill of the Century](#)  
 [Program or Be Programed](https://rushkoff.com/books/program-or-be-programmed/)  
 [Smarter Than You Think](https://www.penguinrandomhouse.com/books/308723/smarter-than-you-think-by-clive-thompson/)  

@@ -83,6 +83,9 @@ A collection lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tool
 [curl a gist](https://docs.github.com/en/rest/gists/gists#create-a-gist)  
 
 ##### Google Dork
+[Google Hacking Database](https://www.exploit-db.com/google-hacking-database)  
+[inurl: searchterm updated: 2023](https://www.google.com/search?q=inurl%3A+googledork+updated%3A+2023&rlz=1C1GCEB_enUS1004US1004&sxsrf=AJOqlzVkUK9HGPmLQchfNKHO25M_ZryLdA%3A1675269857153&ei=4ZbaY8X3CMKbptQP_omw4AQ&ved=0ahUKEwiF7PPF4vT8AhXCjYkEHf4EDEwQ4dUDCBA&uact=5&oq=inurl%3A+googledork+updated%3A+2023&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAzIHCCEQoAEQCjIHCCEQoAEQCjoKCAAQRxDWBBCwAzoHCCMQsAIQJzoGCAAQFhAeOggIABAWEB4QCjoFCAAQhgM6BQghEKsCOggIIRAWEB4QHToLCCEQFhAeEPEEEB1KBAhBGABKBAhGGABQ_wZY8DBgjjRoAXABeACAAbkBiAH-D5IBBDAuMTSYAQCgAQHIAQjAAQE&sclient=gws-wiz-serp)  
+[Google Dorks List - boxpiper](https://www.boxpiper.com/posts/google-dork-list)  
 
 ## HTML
 [Input & Select Box](https://codepen.io/mmj/pen/vYRejQw)

@@ -97,7 +97,9 @@ A collection lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tool
 ## Javascript
 [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
 [hotkeys.js - capture keyboard input](https://wangchujiang.com/hotkeys/)  
-`document.body.contentEditable = true`  
+```javascript
+document.body.contentEditable = true
+```  
 
 ## Markdown
 [Markdown Guide](https://www.markdownguide.org/)  

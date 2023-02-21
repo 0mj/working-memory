@@ -4,6 +4,8 @@ Run Powershell script from command prompt(assuming script directory has been add
 ```
 powershell -ExecutionPolicy Bypass -Command "& 'alwayson.ps1'"
 ```
+![image](https://user-images.githubusercontent.com/13051803/220448975-c9ef505e-7e5b-43c9-8023-1236c57734aa.png)
+
 
 ## ASCII
 [ASCII Art Generator](https://patorjk.com/software/taag/#p=display&f=Alpha&t=%20%20%20%20WORKING%20MEMORY)  

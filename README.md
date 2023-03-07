@@ -131,6 +131,9 @@ solitude deprevation
 [Shikake : the Japanese art of shaping behavior through design Matsumura, Naohiro](https://curiousmindsagency.com/shikake)  
 [xkcd](https://xkcd.com/books/)  
 
+## Phone
+Jolly Roger 
+
 ## PHP
 [php.net](https://php.net)  
 

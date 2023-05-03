@@ -1,6 +1,7 @@
 # FAILURE RESUME
 
 ## Details.. Meh
+* Business rules - do not always translate verbatim (multiple END dates)
 * Story removed from sprint for being too broad and subject to interpretation
 * Got Epics mixed up. Forms Control Panel Phase 1 versus Forms Processing Enhancements - Phase I  versus Reporting Epic
 * Didn't dig deep enough into customer issue.  We needed a story to backfill historical data not just to create the table.
@@ -17,6 +18,7 @@
 
 ## Failure to Communicate
 * Failed to communicate with lead that I was doing x when the ask was y
+* Business rules as written don't translate verbatim ( ___ range end date vs. ___ expire date )
 * Unclear priorities
 * Was given a slide when I thought I described a teeter totter
   

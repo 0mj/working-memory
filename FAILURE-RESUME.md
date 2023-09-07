@@ -21,6 +21,7 @@
 * Business rules as written don't translate verbatim ( ___ range end date vs. ___ expire date )
 * Unclear priorities
 * Was given a slide when I thought I described a teeter totter
+* very muddy / non transparent
   
 
 
@@ -38,5 +39,4 @@
 
 
 # LOOKITSNOT ALL FAILS
-[] one drive/OVATION/lookit/
-articulated purpose of forms control panel to dev team.  No questions were asked.  My communication was clear :)
+* lookit/ articulated purpose of forms control panel to dev team.  No questions were asked.  My communication was clear :) eXCept aparently something was missed as it's introduced problems.  

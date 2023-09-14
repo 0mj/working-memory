@@ -3,7 +3,7 @@
 Run Powershell script from command prompt(assuming script directory has been added to PATH)  
 [ELI5 diff between System & User Environment Variables](https://g.co/bard/share/033a2c10a4dd)  
 ```
-powershell -ExecutionPolicy Bypass -Command "& 'alwayson.ps1'"
+powershell -ExecutionPolicy Bypass -Command "& 'alwayson1.ps1'"
 ```
 ![image](https://user-images.githubusercontent.com/13051803/220448975-c9ef505e-7e5b-43c9-8023-1236c57734aa.png)
 

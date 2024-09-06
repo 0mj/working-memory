@@ -17,6 +17,7 @@
 
 
 ## Failure to Communicate
+* "What we have here is failure to communicate"
 * Failed to communicate with lead that I was doing x when the ask was y
 * Business rules as written don't translate verbatim ( ___ range end date vs. ___ expire date )
 * Unclear priorities

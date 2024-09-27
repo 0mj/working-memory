@@ -126,6 +126,7 @@ operating procedure
 (Use apps and digital tools of value)  
 once a month download and upload pics and vids worth saving and delete the rest  
 solitude deprevation
+[A History of Fake Things on the Internet](https://www.sup.org/books/title/?id=35460)
 [Indistractable: How to Master the Skill of the Century](#)  
 [Program or Be Programed](https://rushkoff.com/books/program-or-be-programmed/)  
 [Smarter Than You Think](https://www.penguinrandomhouse.com/books/308723/smarter-than-you-think-by-clive-thompson/)  

@@ -1,4 +1,5 @@
 ## AI
+
 [ChatGPT](https://chat.openai.com/chat):astonished:  
 Run Powershell script from command prompt(assuming script directory has been added to PATH)  
 [ELI5 diff between System & User Environment Variables](https://g.co/bard/share/033a2c10a4dd)  

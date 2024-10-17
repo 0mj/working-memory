@@ -6,7 +6,19 @@ Run Powershell script from command prompt(assuming script directory has been add
 ```
 powershell -ExecutionPolicy Bypass -Command "& 'alwayson1.ps1'"
 ```
-![image](https://user-images.githubusercontent.com/13051803/220448975-c9ef505e-7e5b-43c9-8023-1236c57734aa.png)
+![image](https://user-images.githubusercontent.com/13051803/220448975-c9ef505e-7e5b-43c9-8023-1236c57734aa.png)  
+
+ehLLm: what are the top transferable skills on my resume  
+ehLLM: what can you tell me about the company willow tree  
+
+focus on your audience when customizing cover letters & resumes with LLM's you can know about company and tailor resume to position  
+
+
+copilot  
+gemini  
+chatgpt  
+claude  
+perplexity  
 
 
 ## ASCII
@@ -48,6 +60,12 @@ Open DevTools **(f12)** by going to View ➙ Developer ➙ Developer Tools (Opti
 Go to ellipses menu ➙ Run command **(Shift + ⌘ + P)**  
 Type “screenshot”  
 Select the type of screenshot your want to take: area, full size, node, or regular.  
+
+#### Excel
+Select row shift + spacebar  
+Delete row ctrl + -  
+Reference value on another sheet ='SheetName'!B30  
+
 
 ## Facial Recognition
 [PimEyes: Face Recognition Search Engine and Reverse Image Search](https://pimeyes.com/en)  

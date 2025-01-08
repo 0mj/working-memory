@@ -150,6 +150,7 @@ solitude deprevation
 [Program or Be Programed](https://rushkoff.com/books/program-or-be-programmed/)  
 [Smarter Than You Think](https://www.penguinrandomhouse.com/books/308723/smarter-than-you-think-by-clive-thompson/)  
 [Shikake : the Japanese art of shaping behavior through design Matsumura, Naohiro](https://curiousmindsagency.com/shikake)  
+[The Singularity is Nearer](https://www.penguinrandomhouse.com/books/535433/the-singularity-is-nearer-by-ray-kurzweil/)
 [xkcd](https://xkcd.com/books/)  
 
 ## Phone

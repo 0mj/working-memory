@@ -1,4 +1,4 @@
-## AI
+## "AI" Generative Pre Trained Ttransformers & Large Language Models
 
 [ChatGPT](https://chat.openai.com/chat):astonished:  
 Run Powershell script from command prompt(assuming script directory has been added to PATH)  
@@ -29,7 +29,12 @@ perplexity
 
 ## Brain
 Plan or be planned.   
-Life is 10% of what happens to you, and 90% of how you react to it
+Life is 10% of what happens to you, and 90% of how you react to it  
+"Great spirit help me to remember the peace that may be found in silence" Cherokee prayer
+"Every minute you waste upset is 60 seconds of happiness lost"
+
+## Browser 
+Google chrome bookmarklet (execute javascript to run on loaded page). 
 
 
 ## Command

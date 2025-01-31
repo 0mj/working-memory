@@ -16,8 +16,8 @@ focus on your audience when customizing cover letters & resumes with LLM's you c
 
 copilot  
 gemini  
-chatgpt  
-claude  
+[https://chat.openai.com](chatgpt)  
+[https://claude.ai](claude)  
 perplexity  
 
 
@@ -31,7 +31,8 @@ perplexity
 Plan or be planned.   
 Life is 10% of what happens to you, and 90% of how you react to it  
 "Great spirit help me to remember the peace that may be found in silence" Cherokee prayer
-"Every minute you waste upset is 60 seconds of happiness lost"
+"Every minute you waste upset is 60 seconds of happiness lost"  
+[Master Shi Heng Yi – 5 hindrances to self-mastery | Shi Heng YI | TEDxVitosha](https://youtu.be/4-079YIasck)  
 
 ## Browser 
 Google chrome bookmarklet (execute javascript to run on loaded page). 

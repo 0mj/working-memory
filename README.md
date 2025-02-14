@@ -186,6 +186,8 @@ $PSScriptRoot
 
 
 ## Ruby
+`ruby -v`
+[ruby 3.2.3 (2024-01-18 revision 52bb2ac0a6) [i386-mingw32]](https://docs.ruby-lang.org/en/3.2/)  
 [Ruby documentation](https://www.ruby-lang.org/en/documentation/)  
 [Ruby documentation - 2.6.6 Standard Library Documentation]()  
 [Ruby Programming books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md#ruby)  

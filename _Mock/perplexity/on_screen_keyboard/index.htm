@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>On-Screen Keyboard</title>
+    <style type="text/css">
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+}
+
+.keyboard {
+    display: grid;
+    grid-template-columns: repeat(13, 50px);
+    gap: 10px;
+}
+
+.key {
+    width: 50px;
+    height: 50px;
+    background-color: #4CAF50;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: transform 0.1s;
+}
+
+.key.pressed {
+    transform: scale(0.9);
+    background-color: #388E3C;
+}</style>
+</head>
+<body>
+    <div class="keyboard">
+        <div class="key" data-key="65">A</div>
+        <div class="key" data-key="66">B</div>
+        <div class="key" data-key="67">C</div>
+        <div class="key" data-key="68">D</div>
+        <div class="key" data-key="69">E</div>
+        <div class="key" data-key="70">F</div>
+        <div class="key" data-key="71">G</div>
+        <div class="key" data-key="72">H</div>
+        <div class="key" data-key="73">I</div>
+        <div class="key" data-key="74">J</div>
+        <div class="key" data-key="75">K</div>
+        <div class="key" data-key="76">L</div>
+        <div class="key" data-key="77">M</div>
+        <div class="key" data-key="78">N</div>
+        <div class="key" data-key="79">O</div>
+        <div class="key" data-key="80">P</div>
+        <div class="key" data-key="81">Q</div>
+        <div class="key" data-key="82">R</div>
+        <div class="key" data-key="83">S</div>
+        <div class="key" data-key="84">T</div>
+        <div class="key" data-key="85">U</div>
+        <div class="key" data-key="86">V</div>
+        <div class="key" data-key="87">W</div>
+        <div class="key" data-key="88">X</div>
+        <div class="key" data-key="89">Y</div>
+        <div class="key" data-key="90">Z</div>
+    </div>
+    <script>document.addEventListener('keydown', function(event) {
+    const key = document.querySelector(`.key[data-key="${event.keyCode}"]`);
+    if (key) {
+        key.classList.add('pressed');
+    }
+});
+
+document.addEventListener('keyup', function(event) {
+    const key = document.querySelector(`.key[data-key="${event.keyCode}"]`);
+    if (key) {
+        key.classList.remove('pressed');
+    }
+});</script>
+</body>
+</html>

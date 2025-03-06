@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Random Milky Way Orbits</title>
+<style>
+  body {
+    margin: 0;
+    overflow: hidden;
+    background-color: black;
+  }
+  .orbit {
+    position: absolute;
+    border-radius: 50%;
+    border: 1px solid rgba(255, 255, 255, 0.3);
+  }
+  .planet {
+    position: absolute;
+    background-color: yellow; /* Sun-like color */
+    border-radius: 50%;
+    width: 15px;
+    height: 15px;
+  }
+</style>
+</head>
+<body>
+<script>
+document.addEventListener("DOMContentLoaded", () => {
+  const numPlanets = 8; // Number of planets
+  const viewportWidth = window.innerWidth;
+  const viewportHeight = window.innerHeight;
+
+  const container = document.body;
+
+  for (let i = 0; i < numPlanets; i++) {
+    createOrbit(i + 1);
+  }
+
+  function createOrbit(orbitIndex) {
+    const orbitSize = Math.min(viewportWidth, viewportHeight) * (0.2 + Math.random() * 0.6);
+    const orbit = document.createElement('div');
+    orbit.classList.add('orbit');
+    orbit.style.width = orbit.style.height = `${orbitSize}px`;
+    orbit.style.top = `${(viewportHeight - orbitSize) / 2}px`;
+    orbit.style.left = `${(viewportWidth - orbitSize) / 2}px`;
+    
+    // Set orbit's rotation speed
+    const rotationSpeed = 10 + Math.random() * 20;
+    orbit.style.animation = `rotate ${rotationSpeed}s linear infinite`;
+
+    // Create planet
+    const planet = document.createElement('div');
+    planet.classList.add('planet');
+    
+    // Place the planet at a random angle on the orbit
+    const angle = Math.random() * 2 * Math.PI;
+    const radius = orbitSize / 2;
+    const planetX = Math.cos(angle) * radius + (radius - 7.5); // Adjust for planet size
+    const planetY = Math.sin(angle) * radius + (radius - 7.5);
+    planet.style.transform = `translate(${planetX}px, ${planetY}px)`;
+
+    orbit.appendChild(planet);
+    container.appendChild(orbit);
+  }
+});
+</script>
+</body>
+</html>

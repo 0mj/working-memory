@@ -1,0 +1,19 @@
+
+
+<script>
+document.addEventListener('keydown', function(event) {
+    // Check for Ctrl+Shift+V using more reliable method
+    if (event.ctrlKey && event.shiftKey && event.keyCode === 86) {
+        // Prevent default behavior
+        event.preventDefault();
+        
+        // Prompt user for new title
+        let newTitle = prompt('Provide new title');
+        
+        // Update document title if input is not null or empty
+        if (newTitle !== null && newTitle.trim() !== '') {
+            document.title = newTitle;
+        }
+    }
+});
+</script>

@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Random Office Jargon Generator</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      margin: 0;
+      padding: 0;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      background-color: #f0f0f0;
+      cursor: pointer;
+    }
+    #phrase {
+      font-size: 8vw;
+      width: 90%;
+      color: #333;
+      word-wrap: break-word;
+      margin: 0;
+    }
+  </style>
+</head>
+<body>
+
+  <div id="phrase">Click or use arrow keys for some jargon!</div>
+
+  <script>
+    const officeJargon = [
+      "Let's circle back.",
+      "Think outside the box.",
+      "Low-hanging fruit.",
+      "Synergy.",
+      "Move the needle.",
+      "Bandwidth.",
+      "Let's take this offline.",
+      "Pivot.",
+      "Touch base.",
+      "Leverage.",
+      "Drill down.",
+      "Boil the ocean.",
+      "Aligning the ducks.",
+      "Win-win situation.",
+      "Take it to the next level.",
+      "Let's put a pin in it.",
+      "Rockstar.",
+      "Core competency.",
+      "Going forward.",
+      "Peel the onion.",
+      "Blue sky thinking.",
+      "Actionable insights.",
+      "Run it up the flagpole.",
+      "Quick win.",
+      "Siloed.",
+      "Game-changer.",
+      "On the same page.",
+      "Deep dive.",
+      "Mission-critical.",
+      "Value-add.",
+      "Touchpoint.",
+      "Scalable solution.",
+      "Best practice.",
+      "Bring to the table.",
+      "Strategic fit.",
+      "Gain traction.",
+      "Circle of influence.",
+      "Hard stop.",
+      "Park it.",
+      "Reinvent the wheel.",
+      "Wheelhouse.",
+      "Pain point.",
+      "Customer-centric.",
+      "Back to the drawing board.",
+      "Bleeding edge.",
+      "Hit the ground running.",
+      "Ideation session.",
+      "Out of pocket.",
+      "Tiger team.",
+      "Value proposition."
+    ];
+
+    const emoticons = ["😄", "😎", "🤔", "😕", "😂", "🥱", "🤯", "🙄", "😡", "😇"];
+    let phraseQueue = [...officeJargon];  // Initialize the queue
+    let phraseCount = 0;
+    let emoticonToggle = false;  // Track yawning emoticon toggle
+
+    function generatePhrase() {
+      phraseCount++;
+      if (phraseCount % 5 === 0) {
+        // Show emoticon every 5th change
+        let displayEmoticon;
+        if (emoticonToggle) {
+          displayEmoticon = "🥱";  // Yawning emoticon
+        } else {
+          displayEmoticon = emoticons[Math.floor(Math.random() * emoticons.length)];
+        }
+        emoticonToggle = !emoticonToggle;  // Toggle for the next emoticon
+        document.getElementById('phrase').innerText = displayEmoticon;
+      } else {
+        // Ensure all phrases are used once before repeating
+        if (phraseQueue.length === 0) {
+          phraseQueue = [...officeJargon];  // Reset the queue
+        }
+        const randomIndex = Math.floor(Math.random() * phraseQueue.length);
+        const selectedPhrase = phraseQueue.splice(randomIndex, 1)[0];  // Remove from queue
+        document.getElementById('phrase').innerText = selectedPhrase;
+      }
+    }
+
+    document.body.addEventListener('keydown', (event) => {
+      if (event.key === 'ArrowLeft' || event.key === 'ArrowRight') {
+        generatePhrase();
+      }
+    });
+
+    // Click event (optional)
+    document.body.onclick = generatePhrase;
+  </script>
+
+</body>
+</html>

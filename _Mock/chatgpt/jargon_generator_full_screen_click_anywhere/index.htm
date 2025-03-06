@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Random Office Jargon Generator</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      margin: 0;
+      padding: 0;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      background-color: #f0f0f0;
+      cursor: pointer;
+    }
+    #phrase {
+      font-size: 36px;
+      width: 90%;
+      max-width: 800px;
+      color: #333;
+      word-wrap: break-word;
+    }
+  </style>
+</head>
+<body onclick="generatePhrase()">
+
+  <div id="phrase">Click anywhere for some jargon!</div>
+
+  <script>
+    const officeJargon = [
+      "Let's circle back.",
+      "Think outside the box.",
+      "Low-hanging fruit.",
+      "Synergy.",
+      "Move the needle.",
+      "Bandwidth.",
+      "Let's take this offline.",
+      "Pivot.",
+      "Touch base.",
+      "Leverage.",
+      "Drill down.",
+      "Boil the ocean.",
+      "Aligning the ducks.",
+      "Win-win situation.",
+      "Take it to the next level.",
+      "Let's put a pin in it.",
+      "Rockstar.",
+      "Core competency.",
+      "Going forward.",
+      "Peel the onion.",
+      "Blue sky thinking.",
+      "Actionable insights.",
+      "Run it up the flagpole.",
+      "Quick win.",
+      "Siloed.",
+      "Game-changer.",
+      "On the same page.",
+      "Deep dive.",
+      "Mission-critical.",
+      "Value-add.",
+      "Touchpoint.",
+      "Scalable solution.",
+      "Best practice.",
+      "Bring to the table.",
+      "Strategic fit.",
+      "Gain traction.",
+      "Circle of influence.",
+      "Hard stop.",
+      "Park it.",
+      "Reinvent the wheel.",
+      "Wheelhouse.",
+      "Pain point.",
+      "Customer-centric.",
+      "Back to the drawing board.",
+      "Bleeding edge.",
+      "Hit the ground running.",
+      "Ideation session.",
+      "Out of pocket.",
+      "Tiger team.",
+      "Value proposition."
+    ];
+
+    function generatePhrase() {
+      const randomIndex = Math.floor(Math.random() * officeJargon.length);
+      document.getElementById('phrase').innerText = officeJargon[randomIndex];
+    }
+  </script>
+
+</body>
+</html>

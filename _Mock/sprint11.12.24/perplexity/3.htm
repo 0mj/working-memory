@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mosaic Wall Layout</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"> <!-- Font Awesome for icons -->
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        html, body {
+            height: 100%;
+        }
+
+        .grid-container {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); /* Responsive columns */
+            grid-template-rows: repeat(auto-fill, minmax(150px, 1fr)); /* Responsive rows */
+            height: 100vh; /* Full viewport height */
+            width: 100vw; /* Full viewport width */
+        }
+
+        .tile {
+            position: relative; /* Position relative for absolute positioning of checkmark */
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            color: white;
+            font-size: 1.5em;
+            border-radius: 15px; /* Rounded corners */
+            text-decoration: none; /* Remove underline from links */
+            overflow: hidden; /* Hide overflow for checkmark */
+        }
+
+        .checkmark {
+            position: absolute; /* Position checkmark in top right corner */
+            top: 10px;
+            right: 10px;
+            font-size: 1.5em; /* Size of the checkmark */
+            color: yellow; /* Color of the checkmark */
+            display: none; /* Initially hidden */
+        }
+
+        footer {
+            position: absolute;
+            bottom: 10px;
+            left: 50%;
+            transform: translateX(-50%);
+            font-size: 0.5em; /* Tiny font size */
+            color: rgba(255, 255, 255, 0.5); /* Semi-transparent text */
+        }
+    </style>
+</head>
+<body>
+    <div class="grid-container" id="gridContainer"></div>
+    <footer>Your original prompt goes here</footer>
+
+    <script>
+        const urls = [
+            "https://bravowell.atlassian.net/browse/ISS20-4406",
+            "https://bravowell.atlassian.net/browse/ISS20-4407",
+            "https://bravowell.atlassian.net/browse/ISS20-4393",
+            "https://bravowell.atlassian.net/browse/ISS20-4329",
+            "https://bravowell.atlassian.net/browse/ISS20-3496",
+            "https://bravowell.atlassian.net/browse/ISS20-4411",
+            "https://bravowell.atlassian.net/browse/ISS20-4383",
+            "https://bravowell.atlassian.net/browse/ISS20-4440",
+            "https://bravowell.atlassian.net/browse/ISS20-4170",
+            "https://bravowell.atlassian.net/browse/ISS20-4283",
+            "https://bravowell.atlassian.net/browse/ISS20-4268",
+            "https://bravowell.atlassian.net/browse/ISS20-3873"
+        ];
+
+        const gridContainer = document.getElementById('gridContainer');
+
+        urls.forEach(url => {
+            const tile = document.createElement('a'); // Create a link element
+            const tileText = url.slice(-4); // Extract last four digits of the URL
+
+            // Create checkmark element
+            const checkmark = document.createElement('i');
+            checkmark.className = 'fa fa-check checkmark'; // Font Awesome checkmark icon
+
+            // Set tile properties
+            tile.className = 'tile';
+            tile.href = url; // Set the href to the URL
+            tile.target = '_blank'; // Open in new tab
+            tile.style.backgroundColor = `hsl(${Math.random() * 360}, 100%, 50%)`; // Random background color
+            tile.textContent = tileText; // Set text content
+
+            // Click event to toggle checkmark visibility
+            tile.onclick = (event) => {
+                event.preventDefault(); // Prevent default link behavior
+                if (checkmark.style.display === 'none' || !checkmark.style.display) {
+                    checkmark.style.display = 'block'; // Show checkmark
+                } else {
+                    checkmark.style.display = 'none'; // Hide checkmark if clicked again
+                }
+                window.open(url, '_blank'); // Open URL in new tab
+                tile.appendChild(checkmark); // Add checkmark to tile
+                if (checkmark.style.display === 'block') {
+                    event.stopPropagation(); // Prevent further clicks from triggering the link
+                }
+                return false; // Prevent default link action on first click
+            };
+
+            gridContainer.appendChild(tile); // Add the tile to the grid container
+        });
+    </script>
+</body>
+</html>

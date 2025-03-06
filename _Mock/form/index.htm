@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Left Navigation Bar with Bordered Card</title>
+    <style>
+        body {
+            display: flex;
+            font-family: Arial, sans-serif;
+        }
+        .nav {
+            width: 200px;
+            background-color: #f4f4f4;
+            padding: 15px;
+            box-shadow: 2px 0 5px rgba(0,0,0,0.1);
+        }
+        .main {
+            flex: 1;
+            padding: 20px;
+        }
+        .card {
+            border: 1px solid #ccc;
+            padding: 20px;
+            border-radius: 5px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+        .field {
+            margin-bottom: 10px;
+        }
+        .status {
+            margin-left: 20px;
+        }
+        .linked-issues {
+            margin-left: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="nav">
+        <h2>Navigation</h2>
+        <!-- Add navigation links here -->
+    </div>
+    <div class="main">
+        <div class="card">
+            <div class="field">Email ID</div>
+            <div class="field">Email GUID</div>
+            <div class="field">Received Date & Time</div>
+            <div class="field">Group</div>
+            <div class="field">Assigned Agent</div>
+            <div class="field">Eligibility</div>
+            <div class="field">Elig ID</div>
+            <div class="field">External ID</div>
+            <div class="field">Program/Plan</div>
+            <div class="field">Group Summary Details</div>
+            <div class="field">Canned responses</div>
+            <div class="field">Program start and end date</div>
+            <div class="field">Alternative deadline</div>
+            <div class="field">Has ptc claimed account?</div>
+            <div class="field">Participant details email</div>
+            <div class="field">System/Elig details email</div>
+            <div class="field">Email body</div>
+            <div class="field">Internal notes</div>
+            <div class="field">Email Reason codes</div>
+            <div class="field">Ptc relation (caller field)</div>
+            <div class="field">Status
+                <div class="status">New</div>
+                <div class="status">Pending</div>
+                <div class="status">Resolved</div>
+            </div>
+            <div class="field">Reason Case is Open</div>
+            <div class="field">Linked Issues
+                <div class="linked-issues">Forms</div>
+                <div class="linked-issues">Prior call</div>
+                <div class="linked-issues">Prior emails</div>
+            </div>
+            <div class="field">History</div>
+        </div>
+    </div>
+</body>
+<script type="text/javascript"> let path = window.location.pathname; document.title = path.slice(-20); </script></html>

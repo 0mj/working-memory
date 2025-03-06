@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Parallax Buttons</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: Arial, sans-serif;
+        }
+        
+        .parallax {
+            height: 500px;
+            overflow-x: hidden;
+            overflow-y: auto;
+            perspective: 1px;
+        }
+        
+        .parallax-group {
+            position: relative;
+            height: 500px;
+        }
+        
+        .parallax-layer {
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+        }
+        
+        .parallax-layer-base {
+            transform: translateZ(0);
+        }
+        
+        .parallax-layer-back {
+            transform: translateZ(-1px) scale(2);
+        }
+        
+        .button {
+            position: absolute;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            border-radius: 50%;
+            cursor: pointer;
+            transition: transform 0.3s;
+        }
+        
+        .button:hover {
+            transform: scale(1.1);
+        }
+        
+        .button-1 {
+            width: 100px;
+            height: 100px;
+            background-color: #f44336;
+            top: 20%;
+            left: 10%;
+        }
+        
+        .button-2 {
+            width: 150px;
+            height: 150px;
+            background-color: #e91e63;
+            top: 40%;
+            left: 30%;
+        }
+        
+        .button-3 {
+            width: 80px;
+            height: 80px;
+            background-color: #9c27b0;
+            top: 60%;
+            left: 50%;
+        }
+        
+        .button-4 {
+            width: 120px;
+            height: 120px;
+            background-color: #673ab7;
+            top: 20%;
+            left: 70%;
+        }
+        
+        .button-5 {
+            width: 90px;
+            height: 90px;
+            background-color: #3f51b5;
+            top: 40%;
+            left: 10%;
+        }
+        
+        .button-6 {
+            width: 130px;
+            height: 130px;
+            background-color: #2196f3;
+            top: 60%;
+            left: 30%;
+        }
+        
+        .button-7 {
+            width: 110px;
+            height: 110px;
+            background-color: #03a9f4;
+            top: 20%;
+            left: 50%;
+        }
+    </style>
+</head>
+<body>
+    <div class="parallax">
+        <div class="parallax-group">
+            <div class="parallax-layer parallax-layer-base">
+                <div class="button button-1">Button 1</div>
+                <div class="button button-2">Button 2</div>
+                <div class="button button-3">Button 3</div>
+                <div class="button button-4">Button 4</div>
+                <div class="button button-5">Button 5</div>
+                <div class="button button-6">Button 6</div>
+                <div class="button button-7">Button 7</div>
+            </div>
+            <div class="parallax-layer parallax-layer-back">
+                <!-- Add any background content here -->
+            </div>
+        </div>
+    </div>
+</body>
+</html>

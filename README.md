@@ -1,3 +1,11 @@
+# hello world
+[codepen](https://codepen.io/mmj/pens/public)  
+[youtube](https://www.youtube.com/@mattjamison5783/videos)  
+heroku
+[upwork](https://www.upwork.com/work)
+[wordpress](https://qmatt494012010.wordpress.com/blog/)
+
+
 ## "AI" Generative Pre Trained Ttransformers & Large Language Models
 
 [ChatGPT](https://chat.openai.com/chat):astonished:  

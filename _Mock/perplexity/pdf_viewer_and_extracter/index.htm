@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PDF Viewer with Thumbnails</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div id="container">
+        <div id="thumbnails"></div>
+        <iframe id="pdfViewer" src="viewer.html" width="600" height="800"></iframe>
+    </div>
+    <button id="exportButton">Export Selection</button>
+
+    <!-- <script src="https://mozilla.github.io/pdf.js/build/pdf.js"></script> PERPLEXITY GAVE BAD URL-->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/4.5.136/pdf.min.mjs"></script>
+    <script src="script.js"></script>
+</body>
+</html>

@@ -22,13 +22,6 @@ perplexity
 ## Bash
 [bash command](https://ss64.com/bash/env.html)
 
-## Brain
-Plan or be planned.   
-"Life is 10% of what happens to you, and 90% of how you react to it"  
-"Great spirit help me to remember the peace that may be found in silence" Cherokee prayer
-"Every minute you waste upset is 60 seconds of happiness lost"  
-[Master Shi Heng Yi – 5 hindrances to self-mastery | Shi Heng YI | TEDxVitosha](https://youtu.be/4-079YIasck)  
-
 ## Browser 
 Google chrome bookmarklet (execute javascript to run on loaded page). 
 
@@ -233,6 +226,13 @@ Run a powershell script from Windows Run command
 [a-z index of windows cmd](https://ss64.com/nt/)  
 Zone files? `dir /r`  
 
+
+## RAIN Recognize Accept Identify NonIdentify 
+Plan or be planned.   
+"Life is 10% of what happens to you, and 90% of how you react to it"  
+"Great spirit help me to remember the peace that may be found in silence" Cherokee prayer
+"Every minute you waste upset is 60 seconds of happiness lost"  
+[Master Shi Heng Yi – 5 hindrances to self-mastery | Shi Heng YI | TEDxVitosha](https://youtu.be/4-079YIasck)  
 
 
 RemoteOk

@@ -2,25 +2,14 @@
 [codepen](https://codepen.io/mmj/pens/public)  
 [youtube](https://www.youtube.com/@mattjamison5783/videos)  
 heroku
-[upwork](https://www.upwork.com/work)
-[wordpress](https://qmatt494012010.wordpress.com/blog/)
+[upwork](https://www.upwork.com/work)  
 
 
 ## "AI" Generative Pre Trained Ttransformers & Large Language Models
 
-[ChatGPT](https://chat.openai.com/chat):astonished:  
+[chat.openai.com](https://chat.openai.com/chat)
 Run Powershell script from command prompt(assuming script directory has been added to PATH)  
-[ELI5 diff between System & User Environment Variables](https://g.co/bard/share/033a2c10a4dd)  
-```
-powershell -ExecutionPolicy Bypass -Command "& 'alwayson1.ps1'"
-```
-![image](https://user-images.githubusercontent.com/13051803/220448975-c9ef505e-7e5b-43c9-8023-1236c57734aa.png)  
-
-ehLLm: what are the top transferable skills on my resume  
-ehLLM: what can you tell me about the company willow tree  
-
-focus on your audience when customizing cover letters & resumes with LLM's you can know about company and tailor resume to position  
-
+[System & User Environment Variables](https://g.co/bard/share/033a2c10a4dd)  
 
 copilot  
 gemini  
@@ -29,15 +18,13 @@ gemini
 perplexity  
 
 
-## ASCII
-[ASCII Art Generator](https://patorjk.com/software/taag/#p=display&f=Alpha&t=%20%20%20%20WORKING%20MEMORY)  
 
 ## Bash
 [bash command](https://ss64.com/bash/env.html)
 
 ## Brain
 Plan or be planned.   
-Life is 10% of what happens to you, and 90% of how you react to it  
+"Life is 10% of what happens to you, and 90% of how you react to it"  
 "Great spirit help me to remember the peace that may be found in silence" Cherokee prayer
 "Every minute you waste upset is 60 seconds of happiness lost"  
 [Master Shi Heng Yi – 5 hindrances to self-mastery | Shi Heng YI | TEDxVitosha](https://youtu.be/4-079YIasck)  
@@ -85,7 +72,7 @@ Reference value on another sheet ='SheetName'!B30
 [PimEyes: Face Recognition Search Engine and Reverse Image Search](https://pimeyes.com/en)  
 
 ## Failure Resume
-[My Failure Resume](https://github.com/0mj/working-memory/blob/main/FAILURE-RESUME.md)  
+[My Failure Resume](https://github.com/0mj/working-memory/blob/main/FAILURE-RESUME.md) 
 
 ## Functional Programming
 Read up on functional programming on the github readme project.  

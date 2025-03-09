@@ -1,6 +1,6 @@
 $WShell = New-Object -Com "Wscript.Shell"
-$startTime = "07:00"
-$endTime = "16:58"
+$startTime = "00:09"
+$endTime = "23:58"
 $working=1
 while ($working) { 
 	$currentTime = Get-Date
@@ -16,6 +16,6 @@ while ($working) {
 	else {
 	  
   		$working=0
-  		Write-Host "hooty hoo! it's 1700!"
+  		Write-Host "new day"
 	}
 }

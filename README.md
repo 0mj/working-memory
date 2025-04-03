@@ -71,6 +71,7 @@ Reference value on another sheet ='SheetName'!B30
 Read up on functional programming on the github readme project.  
 
 ## Git
+TIL you cannot initiate repo locally.  Must be done on github.com  
 Overwrite changes to a file with a file from another branch:  `git checkout master -- README.md `  
 Checkout the last brach you were on:  `git checkout -`  
 Reference logs, or "reflogs" `git reflog`  

@@ -1,3 +1,1 @@
-script.rb
-param = ARGV[0]
-puts "The parameter passed is: #{param}"
+puts "Prameters passed:  #{ARGV[0]} #{ARGV[1]} #{ARGV[2]} "

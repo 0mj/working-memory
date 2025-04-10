@@ -15,7 +15,14 @@ copilot
 gemini  
 [https://chat.openai.com](chatgpt)  
 [https://claude.ai](claude)  
-perplexity  
+perplexity    
+replit (uses claude 3.7)  
+vercel  
+cursor  
+windsurf  
+shadcn (prebuilt react components)  
+loveable  
+bolt  
 
 
 

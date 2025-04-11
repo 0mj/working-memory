@@ -1,5 +1,5 @@
 # hello world
-Here's a small collection of my web repetoire  
+my repetoire..  
 [Codepen](https://codepen.io/mmj/pens/public)  
 [Youtube](https://www.youtube.com/@mattjamison5783/videos)   
 [8 Bit Black Jack](https://v0-black-jack-indol.vercel.app/)  

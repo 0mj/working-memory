@@ -1,1 +1,0 @@
-DEL /Q "C:\code\web.portal-2.0\application\cache\app" 

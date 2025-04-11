@@ -1,9 +1,10 @@
 # hello world
-[codepen](https://codepen.io/mmj/pens/public)  
-[youtube](https://www.youtube.com/@mattjamison5783/videos)  
-heroku
-[upwork](https://www.upwork.com/work)  
-
+Here's a small collection of my web repetoire  
+[Codepen](https://codepen.io/mmj/pens/public)  
+[Youtube](https://www.youtube.com/@mattjamison5783/videos)   
+[8 Bit Black Jack](https://v0-black-jack-indol.vercel.app/)  
+[Lawgic Scheduler](https://v0-lawgic-scheduler-jmsmqz.vercel.app/)  
+[Chrome Extension](https://github.com/0mj/Title_Note)  
 
 ## "AI" Generative Pre Trained Ttransformers & Large Language Models
 

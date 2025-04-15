@@ -6,7 +6,7 @@ my repetoire..
 [Lawgic Scheduler](https://v0-lawgic-scheduler-jmsmqz.vercel.app/)  
 [Top Kid Events](https://v0-top-kid.vercel.app/)  
 [Chrome Extension](https://github.com/0mj/Title_Note)  
-
+[gists](https://gist.github.com/0mj)
 ## "AI" Generative Pre Trained Ttransformers & Large Language Models
 
 [chat.openai.com](https://chat.openai.com/chat)

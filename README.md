@@ -80,14 +80,28 @@ Reference value on another sheet ='SheetName'!B30
 Read up on functional programming on the github readme project.  
 
 ## Git
-TIL you cannot initiate repo locally.  Must be done on github.com  
-Overwrite changes to a file with a file from another branch:  `git checkout master -- README.md `  
+
+wdyd?  
+Show only commit hashes and messages `git log --author="name or email" --oneline`  
+specific branch `git log <branch> --author="name or email"`  
+export to file `git log --author="name or email" > commits.txt`  
+  
+unstage file or files `git reset HEAD <file>`  or `git reset HEAD`  local changes remain intact ;)  
+  
+remove stash `git stash clear`  
+Overwrite file with a file from another branch:  `git checkout master -- README.md `  
 Checkout the last brach you were on:  `git checkout -`  
 Reference logs, or "reflogs" `git reflog`  
-
-Connected? Verify you're connected `ssh -T git@github.com`  
+  
+Verify connected to remote `ssh -T git@github.com`  
 Set user email for directory `git config user.email "address@coolmail.com"`  
 fatal: The current branch main has no upstream branch.  To push the current branch and set the remote as upstream, use `git push --set-upstream main main` solved with `git push --set-uprstream github.com:0mj/rspec3_book.git main`  
+  
+
+
+## github.com
+TIL you cannot initiate repo locally.  Must be done on github.com  
+
 ##### Git fatal errors
 
 

@@ -198,11 +198,13 @@ $PSScriptRoot
 
 
 ## Ruby
+`$0` this global variable contains name of file of currently running program  
+`$$` or `$PID` process ID of ruby  
 `ruby -e 'puts ($:)'` Ruby's load path array, which puts ($:) prints (showing directories where Ruby searches for required files)  
-`ruby -v`
+`ruby -v`  
+[The Well Grounded Rubyist](https://github.com/jleo3/twgr)  
 [ruby 3.2.3 (2024-01-18 revision 52bb2ac0a6) [i386-mingw32]](https://docs.ruby-lang.org/en/3.2/)  
 [Ruby documentation](https://www.ruby-lang.org/en/documentation/)  
-[Ruby documentation - 2.6.6 Standard Library Documentation]()  
 [Ruby Programming books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md#ruby)  
 [Effective Testing with RSpec 3](https://pragprog.com/titles/rspec3/effective-testing-with-rspec-3/)  
 Conditional Assignment Operator `||=`  

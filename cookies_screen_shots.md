@@ -1,4 +1,9 @@
 # Cookies 
+
+### Kent State University
+![image](https://github.com/user-attachments/assets/5c004842-d050-46b3-ab19-f9ce45bc9589)
+
+
 ### Kennametal
 ![image](https://github.com/user-attachments/assets/b7545514-517e-4be4-8225-0f0653811419)
 

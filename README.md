@@ -80,14 +80,28 @@ Reference value on another sheet ='SheetName'!B30
 Read up on functional programming on the github readme project.  
 
 ## Git
-TIL you cannot initiate repo locally.  Must be done on github.com  
-Overwrite changes to a file with a file from another branch:  `git checkout master -- README.md `  
+
+wdyd?  
+Show only commit hashes and messages `git log --author="name or email" --oneline`  
+specific branch `git log <branch> --author="name or email"`  
+export to file `git log --author="name or email" > commits.txt`  
+  
+unstage file or files `git reset HEAD <file>`  or `git reset HEAD`  local changes remain intact ;)  
+  
+remove stash `git stash clear`  
+Overwrite file with a file from another branch:  `git checkout master -- README.md `  
 Checkout the last brach you were on:  `git checkout -`  
 Reference logs, or "reflogs" `git reflog`  
-
-Connected? Verify you're connected `ssh -T git@github.com`  
+  
+Verify connected to remote `ssh -T git@github.com`  
 Set user email for directory `git config user.email "address@coolmail.com"`  
 fatal: The current branch main has no upstream branch.  To push the current branch and set the remote as upstream, use `git push --set-upstream main main` solved with `git push --set-uprstream github.com:0mj/rspec3_book.git main`  
+  
+
+
+## github.com
+TIL you cannot initiate repo locally.  Must be done on github.com  
+
 ##### Git fatal errors
 
 
@@ -184,10 +198,13 @@ $PSScriptRoot
 
 
 ## Ruby
-`ruby -v`
+`$0` this global variable contains name of file of currently running program  
+`$$` or `$PID` process ID of ruby  
+`ruby -e 'puts ($:)'` Ruby's load path array, which puts ($:) prints (showing directories where Ruby searches for required files)  
+`ruby -v`  
+[The Well Grounded Rubyist](https://github.com/jleo3/twgr)  
 [ruby 3.2.3 (2024-01-18 revision 52bb2ac0a6) [i386-mingw32]](https://docs.ruby-lang.org/en/3.2/)  
 [Ruby documentation](https://www.ruby-lang.org/en/documentation/)  
-[Ruby documentation - 2.6.6 Standard Library Documentation]()  
 [Ruby Programming books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md#ruby)  
 [Effective Testing with RSpec 3](https://pragprog.com/titles/rspec3/effective-testing-with-rspec-3/)  
 Conditional Assignment Operator `||=`  

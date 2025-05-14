@@ -162,7 +162,8 @@ document.body.contentEditable = true
 operating procedure  
 (Use apps and digital tools of value)  
 once a month download and upload pics and vids worth saving and delete the rest  
-solitude deprevation
+solitude deprevation  
+[Goodbye Things by Fumio Sasaki](https://archive.org/details/goodbye-things-the-new-japanese-minimalism-by-fumio-sasaki-2017/mode/1up?view=theater)  
 [A History of Fake Things on the Internet](https://www.sup.org/books/title/?id=35460)
 [Indistractable: How to Master the Skill of the Century](#)  
 [Program or Be Programed](https://rushkoff.com/books/program-or-be-programmed/)  

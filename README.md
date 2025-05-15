@@ -173,7 +173,8 @@ solitude deprevation
 [xkcd](https://xkcd.com/books/)  
 
 ## Phone
-Jolly Roger 
+Jolly Roger  
+[vapi](https://vapi.ai)  
 
 ## PHP
 [php.net](https://php.net)  
@@ -255,105 +256,6 @@ Run a powershell script from Windows Run command
 Zone files? `dir /r`  
 
 
-## RAIN Recognize Accept Identify NonIdentify 
-Plan or be planned.   
-"Life is 10% of what happens to you, and 90% of how you react to it"  
-"Great spirit help me to remember the peace that may be found in silence" Cherokee prayer
-"Every minute you waste upset is 60 seconds of happiness lost"  
-[Master Shi Heng Yi – 5 hindrances to self-mastery | Shi Heng YI | TEDxVitosha](https://youtu.be/4-079YIasck)  
+  
 
 
-RemoteOk
-
-- Over 600,000 jobs
-- Work from anywhere
-- The no. 1 remote job board
-
-🦾 https://remoteok.com
-
-
-2. Remotive
-
-- Over 30,000 jobs
-- Vetted tech companies
-- Full remote job opportunities
-
-🦾 https://remotive.com
-
-
-3. Remote,co
-
-- Hand curated
-- Grow remotely
-- 146 remote companies
-
-🦾 https://lnkd.in/eYgwD4bB
-
-
-4. Flexjobs
-
-- 50+ categories
-- Over 42,000 jobs
-- 5,509 companies
-
-🦾 https://www.flexjobs.com
-
-
-5. Wellfound
-
-- Unique jobs
-- Top companies
-- Over 130,000 jobs
-
-🦾 https://wellfound.com/jobs
-
-
-6. JustRemote
-
-- Jobs that fit your life
-- Fully and partially remote
-- Top remote working companies
-
-🦾 https://lnkd.in/d5ZqAXm
-
-
-7. We Work Remotely
-
-- Advanced job search
-- Top remote job searches
-- Top trending remote jobs
-
-🦾 https://lnkd.in/euj9jUYH
-
-
-8. AI Jobs
-
-- Top AI job board
-- Full time remote jobs
-- Top 1% of AI companies
-
-🦾 https://theaijobboard.com
-
-
-9. Toptal
-
-- Top companies
-- Exclusive network
-- Community of experts
-
-🦾 https://www.toptal.com
-
-
-10. Working Nomads
-
-- 100% remote jobs
-- Work from anywhere
-- For digital working nomads
-
-🦾 https://lnkd.in/efQwAr7V
-
-
-Share + Comment more websites so others can benefit! ❤️
-
-
-Follow us There's An AI For That for more helpful posts like this. 🙏

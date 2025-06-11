@@ -9,7 +9,7 @@
 [Family Pong Records](https://github.com/0mj/FPR)  
 [Github contribution chart](https://codepen.io/mmj/full/YzoLQyG)  
 [gists](https://gist.github.com/0mj)  
-[Heroku Django Boilerplate](https://github.com/0mj/FPR-django) 
+[Heroku Django Boilerplate](https://github.com/0mj/FPR-django)  
 [Lawgic Scheduler](https://v0-lawgic-scheduler-jmsmqz.vercel.app/)  
 [The Matrix](https://codepen.io/mmj/full/GRbBMqe)  
 [Top Kid Events](https://v0-top-kid.vercel.app/)  

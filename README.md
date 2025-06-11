@@ -1,12 +1,22 @@
-# hello world
-my repetoire..  
-[Codepen](https://codepen.io/mmj/pens/public)  
-[Youtube](https://www.youtube.com/@mattjamison5783/videos)   
+# HELLO WORLD!
+
+[My Resume](https://codepen.io/mmj/full/XJbZmgm)  
 [8 Bit Black Jack](https://v0-black-jack-indol.vercel.app/)  
-[Lawgic Scheduler](https://v0-lawgic-scheduler-jmsmqz.vercel.app/)  
-[Top Kid Events](https://v0-top-kid.vercel.app/)  
+[Calendar](https://codepen.io/mmj/full/XJrboNQ)   
 [Chrome Extension](https://github.com/0mj/Title_Note)  
-[gists](https://gist.github.com/0mj)
+[Codepen](https://codepen.io/mmj/pens/public)  
+[Datatables](https://codepen.io/mmj/full/PVxExy)  
+[Family Pong Records](https://github.com/0mj/FPR)  
+[Github contribution chart](https://codepen.io/mmj/full/YzoLQyG)  
+[gists](https://gist.github.com/0mj)  
+[Heroku Django Boilerplate](https://github.com/0mj/FPR-django) 
+[Lawgic Scheduler](https://v0-lawgic-scheduler-jmsmqz.vercel.app/)  
+[The Matrix](https://codepen.io/mmj/full/GRbBMqe)  
+[Top Kid Events](https://v0-top-kid.vercel.app/)  
+[Tournament Bracket (Flexbox)](https://codepen.io/mmj/full/exymvw)  
+[Weather api.weather.gov](api.weather.gov)  
+[Youtube](https://www.youtube.com/@mattjamison5783/videos)   
+
 ## "AI" Generative Pre Trained Ttransformers & Large Language Models
 
 [chat.openai.com](https://chat.openai.com/chat)

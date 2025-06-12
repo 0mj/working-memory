@@ -1,5 +1,10 @@
 # Cookies 
 
+### Pearson Education
+Targeting defaults to ON :/  
+![image](https://github.com/user-attachments/assets/15765d04-dce7-431d-91ee-e8a05652971e)
+
+
 ### Kent State University
 ![image](https://github.com/user-attachments/assets/5c004842-d050-46b3-ab19-f9ce45bc9589)
 

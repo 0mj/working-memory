@@ -2,7 +2,10 @@
 
 ### Pearson Education
 Targeting defaults to ON :/  
-![image](https://github.com/user-attachments/assets/15765d04-dce7-431d-91ee-e8a05652971e)
+![image](https://github.com/user-attachments/assets/15765d04-dce7-431d-91ee-e8a05652971e)  
+"mostly used.."  
+![image](https://github.com/user-attachments/assets/2a7e236c-91c0-4f4e-b17b-ad4f0d51afae)
+
 
 
 ### Kent State University

@@ -1,5 +1,10 @@
 # Cookies 
 
+### Giant Eagle Market District
+![image](https://github.com/user-attachments/assets/fb9d5047-bd60-43a9-8456-c19350d98456)  
+Targeting cookies enabled by default.  
+
+
 ### Pearson Education
 Targeting defaults to ON :/  
 ![image](https://github.com/user-attachments/assets/15765d04-dce7-431d-91ee-e8a05652971e)  

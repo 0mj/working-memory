@@ -1,5 +1,10 @@
 # Cookies 
 
+### MLB.com
+Targeting defaults to on  
+![image](https://github.com/user-attachments/assets/8a84d86e-36be-4172-83b9-c5f6c49f11d6)
+
+
 ### Pearson Education
 Targeting defaults to ON :/  
 ![image](https://github.com/user-attachments/assets/15765d04-dce7-431d-91ee-e8a05652971e)  

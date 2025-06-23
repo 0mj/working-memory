@@ -1,5 +1,10 @@
 # Cookies 
 
+### McKesson
+Targeting on by default  
+![image](https://github.com/user-attachments/assets/b0e6df82-7319-40ef-8db5-9f907b926e43)
+
+
 
 ### kastle.com
 ![image](https://github.com/user-attachments/assets/50178a79-5f52-420e-8e8e-9a2a0c577f37)  

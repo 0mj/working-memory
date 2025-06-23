@@ -1,5 +1,15 @@
 # Cookies 
 
+
+### kastle.com
+![image](https://github.com/user-attachments/assets/50178a79-5f52-420e-8e8e-9a2a0c577f37)  
+
+
+### MLB.com
+Targeting defaults to on  
+![image](https://github.com/user-attachments/assets/8a84d86e-36be-4172-83b9-c5f6c49f11d6)
+
+
 ### Giant Eagle Market District
 ![image](https://github.com/user-attachments/assets/fb9d5047-bd60-43a9-8456-c19350d98456)  
 Targeting cookies enabled by default.  

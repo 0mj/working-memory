@@ -1,12 +1,22 @@
-# hello world
-my repetoire..  
-[Codepen](https://codepen.io/mmj/pens/public)  
-[Youtube](https://www.youtube.com/@mattjamison5783/videos)   
+# HELLO WORLD!
+
+[My Resume](https://codepen.io/mmj/full/XJbZmgm)  
 [8 Bit Black Jack](https://v0-black-jack-indol.vercel.app/)  
-[Lawgic Scheduler](https://v0-lawgic-scheduler-jmsmqz.vercel.app/)  
-[Top Kid Events](https://v0-top-kid.vercel.app/)  
+[Calendar](https://codepen.io/mmj/full/XJrboNQ)   
 [Chrome Extension](https://github.com/0mj/Title_Note)  
-[gists](https://gist.github.com/0mj)
+[Codepen](https://codepen.io/mmj/pens/public)  
+[Datatables](https://codepen.io/mmj/full/PVxExy)  
+[Family Pong Records](https://github.com/0mj/FPR)  
+[Github contribution chart](https://codepen.io/mmj/full/YzoLQyG)  
+[gists](https://gist.github.com/0mj)  
+[Heroku Django Boilerplate](https://github.com/0mj/FPR-django)  
+[Lawgic Scheduler](https://v0-lawgic-scheduler-jmsmqz.vercel.app/)  
+[The Matrix](https://codepen.io/mmj/full/GRbBMqe)  
+[Top Kid Events](https://v0-top-kid.vercel.app/)  
+[Tournament Bracket (Flexbox)](https://codepen.io/mmj/full/exymvw)  
+[Weather api.weather.gov](api.weather.gov)  
+[Youtube](https://www.youtube.com/@mattjamison5783/videos)   
+
 ## "AI" Generative Pre Trained Ttransformers & Large Language Models
 
 [chat.openai.com](https://chat.openai.com/chat)
@@ -80,14 +90,28 @@ Reference value on another sheet ='SheetName'!B30
 Read up on functional programming on the github readme project.  
 
 ## Git
-TIL you cannot initiate repo locally.  Must be done on github.com  
-Overwrite changes to a file with a file from another branch:  `git checkout master -- README.md `  
+
+wdyd?  
+Show only commit hashes and messages `git log --author="name or email" --oneline`  
+specific branch `git log <branch> --author="name or email"`  
+export to file `git log --author="name or email" > commits.txt`  
+  
+unstage file or files `git reset HEAD <file>`  or `git reset HEAD`  local changes remain intact ;)  
+  
+remove stash `git stash clear`  
+Overwrite file with a file from another branch:  `git checkout master -- README.md `  
 Checkout the last brach you were on:  `git checkout -`  
 Reference logs, or "reflogs" `git reflog`  
-
-Connected? Verify you're connected `ssh -T git@github.com`  
+  
+Verify connected to remote `ssh -T git@github.com`  
 Set user email for directory `git config user.email "address@coolmail.com"`  
 fatal: The current branch main has no upstream branch.  To push the current branch and set the remote as upstream, use `git push --set-upstream main main` solved with `git push --set-uprstream github.com:0mj/rspec3_book.git main`  
+  
+
+
+## github.com
+TIL you cannot initiate repo locally.  Must be done on github.com  
+
 ##### Git fatal errors
 
 
@@ -148,7 +172,8 @@ document.body.contentEditable = true
 operating procedure  
 (Use apps and digital tools of value)  
 once a month download and upload pics and vids worth saving and delete the rest  
-solitude deprevation
+solitude deprevation  
+[Goodbye Things by Fumio Sasaki](https://archive.org/details/goodbye-things-the-new-japanese-minimalism-by-fumio-sasaki-2017/mode/1up?view=theater)  
 [A History of Fake Things on the Internet](https://www.sup.org/books/title/?id=35460)
 [Indistractable: How to Master the Skill of the Century](#)  
 [Program or Be Programed](https://rushkoff.com/books/program-or-be-programmed/)  
@@ -158,7 +183,8 @@ solitude deprevation
 [xkcd](https://xkcd.com/books/)  
 
 ## Phone
-Jolly Roger 
+Jolly Roger  
+[vapi](https://vapi.ai)  
 
 ## PHP
 [php.net](https://php.net)  
@@ -184,10 +210,13 @@ $PSScriptRoot
 
 
 ## Ruby
-`ruby -v`
+`$0` this global variable contains name of file of currently running program  
+`$$` or `$PID` process ID of ruby  
+`ruby -e 'puts ($:)'` Ruby's load path array, which puts ($:) prints (showing directories where Ruby searches for required files)  
+`ruby -v`  
+[The Well Grounded Rubyist](https://github.com/jleo3/twgr)  
 [ruby 3.2.3 (2024-01-18 revision 52bb2ac0a6) [i386-mingw32]](https://docs.ruby-lang.org/en/3.2/)  
 [Ruby documentation](https://www.ruby-lang.org/en/documentation/)  
-[Ruby documentation - 2.6.6 Standard Library Documentation]()  
 [Ruby Programming books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md#ruby)  
 [Effective Testing with RSpec 3](https://pragprog.com/titles/rspec3/effective-testing-with-rspec-3/)  
 Conditional Assignment Operator `||=`  
@@ -237,105 +266,6 @@ Run a powershell script from Windows Run command
 Zone files? `dir /r`  
 
 
-## RAIN Recognize Accept Identify NonIdentify 
-Plan or be planned.   
-"Life is 10% of what happens to you, and 90% of how you react to it"  
-"Great spirit help me to remember the peace that may be found in silence" Cherokee prayer
-"Every minute you waste upset is 60 seconds of happiness lost"  
-[Master Shi Heng Yi – 5 hindrances to self-mastery | Shi Heng YI | TEDxVitosha](https://youtu.be/4-079YIasck)  
+  
 
 
-RemoteOk
-
-- Over 600,000 jobs
-- Work from anywhere
-- The no. 1 remote job board
-
-🦾 https://remoteok.com
-
-
-2. Remotive
-
-- Over 30,000 jobs
-- Vetted tech companies
-- Full remote job opportunities
-
-🦾 https://remotive.com
-
-
-3. Remote,co
-
-- Hand curated
-- Grow remotely
-- 146 remote companies
-
-🦾 https://lnkd.in/eYgwD4bB
-
-
-4. Flexjobs
-
-- 50+ categories
-- Over 42,000 jobs
-- 5,509 companies
-
-🦾 https://www.flexjobs.com
-
-
-5. Wellfound
-
-- Unique jobs
-- Top companies
-- Over 130,000 jobs
-
-🦾 https://wellfound.com/jobs
-
-
-6. JustRemote
-
-- Jobs that fit your life
-- Fully and partially remote
-- Top remote working companies
-
-🦾 https://lnkd.in/d5ZqAXm
-
-
-7. We Work Remotely
-
-- Advanced job search
-- Top remote job searches
-- Top trending remote jobs
-
-🦾 https://lnkd.in/euj9jUYH
-
-
-8. AI Jobs
-
-- Top AI job board
-- Full time remote jobs
-- Top 1% of AI companies
-
-🦾 https://theaijobboard.com
-
-
-9. Toptal
-
-- Top companies
-- Exclusive network
-- Community of experts
-
-🦾 https://www.toptal.com
-
-
-10. Working Nomads
-
-- 100% remote jobs
-- Work from anywhere
-- For digital working nomads
-
-🦾 https://lnkd.in/efQwAr7V
-
-
-Share + Comment more websites so others can benefit! ❤️
-
-
-Follow us There's An AI For That for more helpful posts like this. 🙏

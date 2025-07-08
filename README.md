@@ -1,6 +1,7 @@
 # HELLO WORLD!
 
 [My Resume](https://codepen.io/mmj/full/XJbZmgm)  
+[Upwork Profile](https://www.upwork.com/freelancers/~01df6889fbff70db1d)  
 [8 Bit Black Jack](https://v0-black-jack-indol.vercel.app/)  
 [Calendar](https://codepen.io/mmj/full/XJrboNQ)   
 [Chrome Extension](https://github.com/0mj/Title_Note)  

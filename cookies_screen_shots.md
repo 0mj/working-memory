@@ -1,5 +1,9 @@
 # Cookies 
 
+### StackOverflow
+![image](https://github.com/user-attachments/assets/4450c9e9-9879-4140-8eb2-e78e7d79a489)
+
+
 ### McKesson
 Targeting on by default  
 ![image](https://github.com/user-attachments/assets/b0e6df82-7319-40ef-8db5-9f907b926e43)

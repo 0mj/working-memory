@@ -18,7 +18,8 @@
 [Weather api.weather.gov](api.weather.gov)  
 [Youtube](https://www.youtube.com/@mattjamison5783/videos)   
 
-## "AI" Generative Pre Trained Ttransformers & Large Language Models
+## Language Models, Generative Pre Trained Ttransformers
+[Agentic Misalignment: How LLMs could be insider threats Jun 20, 2025](https://www.anthropic.com/research/agentic-misalignment)  
 
 [chat.openai.com](https://chat.openai.com/chat)
 Run Powershell script from command prompt(assuming script directory has been added to PATH)  

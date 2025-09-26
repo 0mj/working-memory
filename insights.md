@@ -1,4 +1,6 @@
 ## Insights  
+> "It's hard to build momentum if you keep dividing your attention."
+
 **Plan or be planned.**  
 "Life is 10% of what happens to you, and 90% of how you react to it"  
 "Great spirit help me to remember the peace that may be found in silence" Cherokee prayer  

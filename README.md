@@ -8,6 +8,7 @@
 [Codepen](https://codepen.io/mmj/pens/public)  
 [Datatables](https://codepen.io/mmj/full/PVxExy)  
 [Family Pong Records](https://github.com/0mj/FPR)  [snapshots on wayback machine](https://web.archive.org/web/20220120223214/http://www.qmatt.com/pongers)  
+[Github-Pages](https://0mj.github.io/working-memory/)  
 [Github contribution chart](https://codepen.io/mmj/full/YzoLQyG)  
 [gists](https://gist.github.com/0mj)  
 [Heroku Django Boilerplate](https://github.com/0mj/FPR-django)  
@@ -26,11 +27,13 @@ Run Powershell script from command prompt(assuming script directory has been add
 [System & User Environment Variables](https://g.co/bard/share/033a2c10a4dd)  
 
 copilot  
+deepseek
+[Zhipu AI](https://chat.z.ai/)  
 gemini  
 [https://chat.openai.com](chatgpt)  
 [https://claude.ai](claude)  
 perplexity    
-replit (uses claude 3.7)  
+[replit](https://replit.com)  
 vercel  
 cursor  
 windsurf  

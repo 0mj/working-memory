@@ -34,6 +34,8 @@ Targeting defaults to ON :/
 "mostly used.."  
 ![image](https://github.com/user-attachments/assets/2a7e236c-91c0-4f4e-b17b-ad4f0d51afae)
 
+### Pepperl & Fuchs
+<img width="1686" height="983" alt="image" src="https://github.com/user-attachments/assets/35f60bbd-d12a-445c-8e25-d7b9fc4e395e" />
 
 
 ### Kent State University

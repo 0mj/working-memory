@@ -1,0 +1,1 @@
+javascript:(function(){var u = window.location.href; if (u.indexOf('f_TPR=r') > -1) {u = u.replace(/f_TPR=r\d+/, 'f_TPR=r3600'); } else {u += (u.indexOf('?') > -1 ? '&' : '?') + 'f_TPR=r3600'; } if (u.indexOf('sortBy=') > -1) {u = u.replace(/sortBy=[^&#]*/, 'sortBy=DD'); } else {u += (u.indexOf('?') > -1 ? '&' : '?') + 'sortBy=DD'; } window.location.href = u; })();

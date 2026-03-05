@@ -26,20 +26,21 @@
 Run Powershell script from command prompt(assuming script directory has been added to PATH)  
 [System & User Environment Variables](https://g.co/bard/share/033a2c10a4dd)  
 
-copilot  
-deepseek
-[Zhipu AI](https://chat.z.ai/)  
-gemini  
+ 
+[deepseek](https://en.wikipedia.org/wiki/DeepSeek)  
+[gemini] (https://gemini.google.com/)  
 [https://chat.openai.com](chatgpt)  
 [https://claude.ai](claude)  
 perplexity    
 [replit](https://replit.com)  
+[vapi](https://vapi.ai/)  
 vercel  
 cursor  
 windsurf  
 shadcn (prebuilt react components)  
 loveable  
 bolt  
+[Zhipu AI](https://chat.z.ai/)  
 ([one](https://onecompiler.com))   Code online with One Compiler.  
 
 

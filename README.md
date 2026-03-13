@@ -21,7 +21,7 @@
 
 ## Language Models, Generative Pre Trained Ttransformers
 [Agentic Misalignment: How LLMs could be insider threats Jun 20, 2025](https://www.anthropic.com/research/agentic-misalignment)  
-
+[Anthropic response to department of War]()
 [chat.openai.com](https://chat.openai.com/chat)
 Run Powershell script from command prompt(assuming script directory has been added to PATH)  
 [System & User Environment Variables](https://g.co/bard/share/033a2c10a4dd)  
